@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aroosa Ijaz"
+title                    : "Aroosa"
 title_separator          : "-"
 name                     : &name "Aroosa Ijaz"
 description              : &description "Ph.D. student, Physics Department, University of Waterloo"
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _papers
   - scope:
       path: ""
-      type: portfolio
+      type: papers
     values:
       layout: single
       author_profile: true
@@ -309,5 +309,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-theme: jekyll-theme-merlot
