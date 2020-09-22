@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/TMDC
 venue: "Physical review letters"
 date: 2018-01-18 
-citation: 'Patrick Back, et al. <i>PRL 2018.</i>'
+citation: 'Patrick Back, et al. <i>Phys. Rev. Lett. 120, 037401, 2018</i>'
 ---
 
 [[PRL2018]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.037401)
