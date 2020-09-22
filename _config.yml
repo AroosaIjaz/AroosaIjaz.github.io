@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Aroosa"
 title_separator          : "-"
 name                     : &name "Aroosa Ijaz"
-description              : &description "Ph.D. student, Physics Department, University of Waterloo"
+description              : &description "Ph.D. student, University of Waterloo"
 url                      : https://aroosaijaz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AroosaIjaz/aroosaijaz.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Aroosa Ijaz"
   avatar           : "AroosaIjaz.jpeg"
-  bio              : "Ph.D. student, Physics Department, University of Waterloo. Graduate researcher at Vector Institute "
+  bio              : "Ph.D. student, Department of Physics and Astronomy, University of Waterloo. Graduate researcher at Vector Institute "
   location         : "Toronto, Canada"
   employer         :
   pubmed           : 
