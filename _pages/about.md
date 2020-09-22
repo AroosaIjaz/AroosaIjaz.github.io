@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About Me
-* I am a Physics Ph.D. student University of Waterloo. 
+* I am a Physics Ph.D. student at the University of Waterloo. 
 * My research interests lie at the intersection of machine learning and Physics, in particular quantum-enhanced machine learning and classical ML applications in Physics.
 * In the past, I have worked on topological superconductors, Majorana Fermions, solid-state quantum computing, quantum transport in monolayer TMDCs and quantum optical effects in color centers in diamond. 
 
