@@ -1,0 +1,19 @@
+---
+title: "Towards efficient readout of electron spin state in Silicon Vacancy centers in diamond"
+collection: talks
+type: "Poster"
+permalink: /talks/DPG2016
+venue: "DPG spring meeting"
+date: 2016-03-02
+location: "Hannover, Germany"
+---
+Efficient qubit systems are being actively researched globally. A qubit needs to have an efficient photon interface, long coherence times, stability and easy control. 
+Some active systems of research include trapped ions, quantum dots and color centers in solids. Currently, the most prominent color center for quantum information is
+Nitrogen Vacancy (NV) center in diamond. The stiff lattice of diamond protects the coherent properties of the center's spin. The spin-photon interface for NV centers
+is, however, poor. Silicon Vacancy (SiV) center has recently emerged as a competitor to the NV center due to its uniquely attractive optical properties. Compared to
+NV centers, it provides a feasible interface between stationary and flying qubits. This center has also been shown to emit indistinguishable photons which will pave
+the way towards scalable quantum networks. We use the extinction of light by single defects in bulk diamond to obtain high contrast resonant detection as compared to
+the usual off-resonant measurements over the phonon side band. This technique improves electron spin state readout when the defect is addressed resonantly and allows
+for single-shot optical readout of electron spin.
+
+For details, check the official [website](https://www.dpg-verhandlungen.de/year/2016/conference/hannover/part/q/session/42/contribution/55)
