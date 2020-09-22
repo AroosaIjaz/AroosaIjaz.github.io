@@ -2,7 +2,7 @@
 title: "Realization of an Electrically Tunable Narrow-Bandwidth Atomically Thin Mirror Using Monolayer MoSe2"
 collection: publications
 permalink: /publications/TMDC
-venue: "PRL 2018"
+venue: "Physical review letters"
 date: 2018-01-18 
 citation: 'Patrick Back, et al. <i>PRL 2018.</i>'
 ---
