@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/GeV
 venue: "Physical Review B"
 date: 2017-08-18
-citation: 'Petr Siyushev, et al. <i>PhysRevB 2017.</i>'
+citation: 'Petr Siyushev, et al. <i>Phys. Rev. B 96, 081201(R), 2017</i>'
 ---
 
 [[PhysRevB2017]](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.081201)
