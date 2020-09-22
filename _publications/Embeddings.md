@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/Embeddings
 venue: "ArXiv"
 date: 2020-01-10 
-citation: 'Seth Lloyd, et al. <i>ArXiv 2020.</i>'
+citation: 'Seth Lloyd, et al. <i>arXiv:2001.03622</i>'
 ---
 
 [[ArXiv2020]](https://arxiv.org/pdf/2001.03622.pdf)
