@@ -2,7 +2,7 @@
 title: "Optical and microwave control of germanium-vacancy center spins in diamond"
 collection: publications
 permalink: /publications/GeV
-venue: "Physical Review B 2017"
+venue: "Physical Review B"
 date: 2017-08-18
 citation: 'Petr Siyushev, et al. <i>PhysRevB 2017.</i>'
 ---
