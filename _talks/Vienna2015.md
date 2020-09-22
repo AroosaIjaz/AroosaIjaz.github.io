@@ -1,5 +1,5 @@
 ---
-title: "Silicon vacancy centers in diamond”"
+title: "Silicon vacancy centers in diamond"
 collection: talks
 type: "Poster"
 permalink: /talks/Vienna2015
