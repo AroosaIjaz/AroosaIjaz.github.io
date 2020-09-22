@@ -15,4 +15,4 @@ redirect_from:
 
 # Academic Services
 * Conference Reviewer: QTML 2020
-* QC Community: QOSF mentorship program 2020.  
+* QC Community: QOSF mentorship program 2020, CCUWIP Toronto 2020 Keynote speaker  
