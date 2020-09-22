@@ -2,7 +2,7 @@
 title: "An introduction to Quantum Machine Learning"
 collection: talks
 type: "Talk"
-permalink: /talks/2020-04-27
+permalink: /talks/WashingtonQC
 venue: "Washington Quantum Computing meetup"
 date: 2020-04-27
 location: "Webinar"
