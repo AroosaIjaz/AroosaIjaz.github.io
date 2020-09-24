@@ -14,6 +14,6 @@ redirect_from:
 * In the past, I have worked on developing QML algorithms for NISQ devices, Majorana Fermions for topological quantum computing, quantum transport in TMDCs, quantum optical effects in color centers in diamond and spectroscopy on quantum dots. 
 
 # Academic Services
-* Conference Reviewer: QTML 2020
-* QC Community: QOSF mentorship program 2020, CCUWIP Toronto 2020 Keynote speaker  
-* Software contributions: PennyLane, Strawberry Fields. 
+* Conference Reviewer: [QTML 2020](https://www.qtml2020.com/)
+* QC Community: [QOSF mentorship program 2020](https://qosf.org/qc_mentorship/), [CCUWIP Toronto 2020 Keynote speaker](https://ccuwip.cap.ca/)  
+* Software contributions: [PennyLane](https://pennylane.ai/), [Strawberry Fields](https://strawberryfields.ai/) 
