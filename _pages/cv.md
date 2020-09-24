@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.Sc. Physics, Computer Science, Lahore University of Management Sciences, 2009-2013
-* M.Sc. Physics, Ulm University, 2014-2016
-* Ph.D Physics, ETH Zürich, 2016-2018 (changed research field from experimental to theoretical quantum computing)
 * Ph.D Physics, Univeristy of Waterloo, 2020-2024
 * Affiliated graduate researcher at Vector Institute for Artificial Intelligence, Toronto, 2020-2024
+* Ph.D Physics, ETH Zürich, 2016-2018 (changed research field from experimental to theoretical quantum computing)
+* M.Sc. Physics, Ulm University, 2014-2016
+* B.Sc. Physics, Computer Science, Lahore University of Management Sciences, 2009-2013
 
 Work experience
 ======
