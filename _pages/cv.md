@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 * Quantum machine learning scientist at Xanadu. May 2019 to August 2020
-* Research assistant with Prof. Fedor Jelezko at Institute for Quantum Optics, Ulm University. June 2015 to December 2015
+* Research assistant with Prof. Fedor Jelezko at Institute for Quantum Optics, Ulm University. May 2015 to August 2016
 * Research assistant with Department of Physics, Lahore University of Management Sciences. July 2013 to June 2014
 * Research intern with Department of Computer Science, Lahore University of Management Sciences. June 2012 to December 2012
   
