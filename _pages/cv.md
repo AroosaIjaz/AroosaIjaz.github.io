@@ -31,4 +31,4 @@ Awards
 * Merit scholarship award for PKR 219000, Lahore University of Management Sciences (not availed), 2014-2015 
 * 100% Honor Roll Scholarship, Lahore Grammar School, 2007-2009
 
-[Curriculum Vitae [PDF]](http://aroosa.github.io/files/aroosa_cv.pdf)
+[Curriculum Vitae [PDF]](http://aroosa.github.io/files/AroosaIjaz_CV.pdf)
