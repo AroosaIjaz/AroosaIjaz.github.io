@@ -17,3 +17,4 @@ redirect_from:
 * Conference Reviewer: [QTML 2020](https://www.qtml2020.com/)
 * QC Community: [QOSF mentorship program 2020](https://qosf.org/qc_mentorship/), [CCUWIP Toronto 2020 Keynote speaker](https://ccuwip.cap.ca/)  
 * Software contributions: [PennyLane](https://pennylane.ai/), [Strawberry Fields](https://strawberryfields.ai/) 
+* Co-inventor: US Patent Application 17,118,004 "APPARATUS AND METHODS FOR QUANTUM COMPUTIING WITH PRE TRAINING"
