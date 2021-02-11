@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 # About Me
-* I am a Physics Ph.D. student at the University of Waterloo. 
+* I am a Physics Ph.D. student at the University of Waterloo.
+* My PhD supervisors are Juan Felipe Carrasquilla and Roger Melko
 * My research interests lie at the intersection of machine learning and Physics, in particular quantum-enhanced machine learning and applications of classical machine learning in Physics.
 * In the past, I have worked on:
     * QML algorithms for NISQ devices
