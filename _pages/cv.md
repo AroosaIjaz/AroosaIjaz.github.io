@@ -26,6 +26,7 @@ Work experience
   
 Awards
 ======
+* Xanadu QHACK 2021: [3rd position](https://medium.com/xanaduai/qhack-the-quantum-machine-learning-hackathon-7f2cd7348e2b)
 * Marie Curie Young Researcher Fellowship, ETH Zürich, 2016-2018 
 * Degree Scholarship for 1500 Euros, Ulm University, 2015 
 * Merit scholarship award for PKR 219000, Lahore University of Management Sciences (not availed), 2014-2015 
