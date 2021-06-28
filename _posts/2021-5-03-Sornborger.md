@@ -12,55 +12,31 @@ tags:
 
 Summary: 
 
-* Paper suggests short-depth continuous variable algorithms for quantum compilation. Experiements with arbitrary Gaussian operations and Kerr non-linearities are done to show learnability. Theoretical claims for quantum learning theory in the continuous variable setting are made (for the first time).
+* Paper suggests short-depth continuous variable algorithms for quantum compilation. Experiements with arbitrary Gaussian operations and Kerr non-linearities are done to show learnability. Theoretical claims for quantum learning theory in the continuous variable setting are made (for the first time). They claim advantages in 
+sample complexity when using quantum states of light. 
 
 Details:
 
-* Hamiltonian Variational Ansatz (HVA) breaks down hamiltonian into many non-commuting terms (QAOA has two of these). We start with the ground state of one of these terms. These terms are applied p times (depth p circuit). 
+* variational compilation of parametrized CV unitaries involves optimization of a parameterized quantum circuit to learn a given target unitary. This can be used in error correciton, tomography, sensing or circuit design. 
 
-* We require: 
-    * an expressive enough ansatz space that contains the ground state. The ansatz space of a specific model H and
-    depth p refers to the set of all possible quantum states that can be reached by applying a depth-p HVA circuit
-    corresponding to H to a fixed initial state |ψ0> which depends on the model.
-    * non-convex cost landscape induced by the variational energy such that the optimization does not get stuck in
-    local minima and can reliably reach the ground state.
+* Does using entangles states lead to a "Free lunch?" (that we can learn any unitary with reasonable resources)
 
-* TFIM model: H = Hzz + gHx. this needs 2p parameters
+* The goal of CV quantum compiling is to take a (possibly
+unknown) unitary U and return a gate sequence V ,
+executable on a CV quantum computer, that has approximately
+the same action as U on any given input state
+(up to possibly a global phase factor)
 
-* XXZ model: H = Hxx + Hyy + delta Hzz. this needs 4p parameters
+* Hilbert Schmidt inner product is used to find the unitary that estimates the target unitary upto a global phase. This can be related to average gate fidelities (which otherwise needs measurements over all pure states derived from the Haar measure which increases exponentially). 
 
-* This paper showed that ground state can be represented accurately with a depth of p = N/2 circuit for all values of system parameters (g, delta)
+* DV systems use Bell states to measure HS cost. For Cv systems, Two-Mode-Squeezed States (TMSS) are a natural analogue of Bell states. The layout of CV circuits that can measure this distance are proposed. If coherent states are used, since they are easier to produce experimentally, a truncation of energy can be used whilst obtaining the HS cost. 
 
-* For a quantum system at zero temperature, the entropy of a subsystem has a different origin: entanglement. To quantify it, we use the bipartite entanglement entropy which is defined as the von Neumann entropy of the reduced density matrix ρA: S(ρA) = − Tr(ρA log ρA)
+* what about barren plateaus as CV systems scale? yes, they do see them. Hence a local 2-mode meausremnt based cost function is proposed like in ref 14 for the DV training. However, gradients still vanish as the squeezing is increased. When using coherent states, this problems is avoided by increasing the energy truncation with number of modes. 
 
-* Fully characterizing the entanglement properties of a system cannot be done by looking solely at the entanglement entropy. The so-called entanglement spectrum has a much richer structure and is defined as the eigenvalue spectrum of the entanglement Hamiltonian H_ent = − log ρA. 
-
-* For random quantum states distributed according to the Haar measure, the entanglement spectrum follows the Marchenko-Pastur distribution. This distribution describes the asymptotic average density of eigenvalues of Wishart matrices, i.e., matrices of the form XX^*, where X be m × n random matrices. Also, Page entropy describes the average entanglement entropy over randomly drawn pure states in the entire Hilbert space. 
-
-* The entanglement spectrum of HVA-accessible states must not follow MP distribution. 
-
-* They see that both ansatze have enough entangling power to express the ground state, even for low depth circuits. For the TFIM, HVA spectrum is further away from the MP distribution for all p. For the XXZ model, the average spectra
-gets closer to the MP distribution as p increases because the XXZ model is inherently a much richer model.
-
-* we study the dynamics of the entanglement spectrum for different initialization strategies; an identity state
-initialization stays far away from the MP distribution at all times and has > 99.9% fidelity. Random state initialization starts close to the MP distribution and then moves to a more structured, local minima with 70%
-fidelity.
-
-* The disadvantage of starting at a bad initial point can be overcome by making the circuit sufficiently deep, a process known as over-parameterization. They observe a “computational phase transition” between an under-parameterized and over-parameterized regime where on increasing depth, the optimization landscape of HVA crosses over to a regime with faster convergence and absence of low-quality solutions. This is not seen in random quantum circuits. The growth in circuit depth needs longer coherence times and small gate errors.
-
-* They calculated the variance of gradients as a function of qubits number N and depth p. For the TFIM,
-the flatness of the variance curve indicates no barren plateau problem. However for the XXZ model, we see an
-exponential decay, but this decay is not as strong as in RQCs. 
-
-* Sampling gradients close to the identity initialization gives a constant gradient variance for all N. This
-indicates that the vanishing gradient problem can be circumvented by choosing a suitable initialization strategy.
-
-* They do a test with Haldane-Shastry (MHS) Hamiltonian.
-
+* Numrical tests are done for arbitrary single-mode Gaussian operations, Kerr non-linearities and a general beamsplitter operation.
 
 Recap:
-* area laws for the entanglement entropy from https://arxiv.org/pdf/0808.3773.pdf
-* Random matrix theory 
+* CV QO
 
 Important refs:
-3, 5, 9, 25, 34, 41, 42, 47
+10, 14, 15, 51
