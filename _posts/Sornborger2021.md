@@ -1,0 +1,66 @@
+---
+title: 'Universal Compiling and (No-)Free-Lunch Theorems for Continuous Variable Quantum Learning'
+date: 2021-05-03
+permalink: /posts/2021/05/03/Sornborger/
+tags:
+  - CV QC
+  - NFL theorem
+  - Quantum Compiling
+  - Fock states
+  - Squeezed states
+---
+
+Summary: 
+
+* Paper suggests short-depth continuous variable algorithms for quantum compilation. Experiements with arbitrary Gaussian operations and Kerr non-linearities are done to show learnability. Theoretical claims for quantum learning theory in the continuous variable setting are made (for the first time).
+
+Details:
+
+* Hamiltonian Variational Ansatz (HVA) breaks down hamiltonian into many non-commuting terms (QAOA has two of these). We start with the ground state of one of these terms. These terms are applied p times (depth p circuit). 
+
+* We require: 
+    * an expressive enough ansatz space that contains the ground state. The ansatz space of a specific model H and
+    depth p refers to the set of all possible quantum states that can be reached by applying a depth-p HVA circuit
+    corresponding to H to a fixed initial state |ψ0> which depends on the model.
+    * non-convex cost landscape induced by the variational energy such that the optimization does not get stuck in
+    local minima and can reliably reach the ground state.
+
+* TFIM model: H = Hzz + gHx. this needs 2p parameters
+
+* XXZ model: H = Hxx + Hyy + delta Hzz. this needs 4p parameters
+
+* This paper showed that ground state can be represented accurately with a depth of p = N/2 circuit for all values of system parameters (g, delta)
+
+* For a quantum system at zero temperature, the entropy of a subsystem has a different origin: entanglement. To quantify it, we use the bipartite entanglement entropy which is defined as the von Neumann entropy of the reduced density matrix ρA: S(ρA) = − Tr(ρA log ρA)
+
+* Fully characterizing the entanglement properties of a system cannot be done by looking solely at the entanglement entropy. The so-called entanglement spectrum has a much richer structure and is defined as the eigenvalue spectrum of the entanglement Hamiltonian H_ent = − log ρA. 
+
+* For random quantum states distributed according to the Haar measure, the entanglement spectrum follows the Marchenko-Pastur distribution. This distribution describes the asymptotic average density of eigenvalues of Wishart matrices, i.e., matrices of the form XX^*, where X be m × n random matrices. Also, Page entropy describes the average entanglement entropy over randomly drawn pure states in the entire Hilbert space. 
+
+* The entanglement spectrum of HVA-accessible states must not follow MP distribution. 
+
+* They see that both ansatze have enough entangling power to express the ground state, even for low depth circuits. For the TFIM, HVA spectrum is further away from the MP distribution for all p. For the XXZ model, the average spectra
+gets closer to the MP distribution as p increases because the XXZ model is inherently a much richer model.
+
+* we study the dynamics of the entanglement spectrum for different initialization strategies; an identity state
+initialization stays far away from the MP distribution at all times and has > 99.9% fidelity. Random state initialization starts close to the MP distribution and then moves to a more structured, local minima with 70%
+fidelity.
+
+* The disadvantage of starting at a bad initial point can be overcome by making the circuit sufficiently deep, a process known as over-parameterization. They observe a “computational phase transition” between an under-parameterized and over-parameterized regime where on increasing depth, the optimization landscape of HVA crosses over to a regime with faster convergence and absence of low-quality solutions. This is not seen in random quantum circuits. The growth in circuit depth needs longer coherence times and small gate errors.
+
+* They calculated the variance of gradients as a function of qubits number N and depth p. For the TFIM,
+the flatness of the variance curve indicates no barren plateau problem. However for the XXZ model, we see an
+exponential decay, but this decay is not as strong as in RQCs. 
+
+* Sampling gradients close to the identity initialization gives a constant gradient variance for all N. This
+indicates that the vanishing gradient problem can be circumvented by choosing a suitable initialization strategy.
+
+* They do a test with Haldane-Shastry (MHS) Hamiltonian.
+
+
+Recap:
+* area laws for the entanglement entropy from https://arxiv.org/pdf/0808.3773.pdf
+* Random matrix theory 
+
+Important refs:
+3, 5, 9, 25, 34, 41, 42, 47
