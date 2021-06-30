@@ -20,7 +20,14 @@ redirect_from:
     * spectroscopy on quantum wells and quantum dots 
 
 # Academic Services
-* Journal Reviewer: [QTML 2020](https://www.qtml2020.com/), [PRX Quantum](https://journals.aps.org/prxquantum/)
-* QC Community: [QOSF mentorship program 2020](https://qosf.org/qc_mentorship/), [CCUWIP Toronto 2020 Keynote speaker](https://ccuwip.cap.ca/)  
-* Software contributions: [PennyLane](https://pennylane.ai/), [Strawberry Fields](https://strawberryfields.ai/) 
+* Journal Reviewer:
+    * [QTML 2020](https://www.qtml2020.com/)
+    * [PRX Quantum](https://journals.aps.org/prxquantum/)
+* QC Community:
+    * Host of QML meet up: with Amira Abaas and Antal Szava. we host QML researchers and discuss cutting-edge research contributions. 
+    * [QOSF mentorship program 2020](https://qosf.org/qc_mentorship/)
+    * [CCUWIP Toronto 2020 Keynote speaker](https://ccuwip.cap.ca/)  
+* Software contributions:
+    * [PennyLane](https://pennylane.ai/)
+    * [Strawberry Fields](https://strawberryfields.ai/) 
 * Co-inventor with Seth Lloyd and Maria Schuld: US Patent Application 17,118,004 "APPARATUS AND METHODS FOR QUANTUM COMPUTIING WITH PRE TRAINING"
