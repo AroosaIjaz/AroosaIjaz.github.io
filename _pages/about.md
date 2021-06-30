@@ -24,7 +24,7 @@ redirect_from:
     * [QTML 2020](https://www.qtml2020.com/)
     * [PRX Quantum](https://journals.aps.org/prxquantum/)
 * QC Community:
-    * Host of QML meet up: with Amira Abaas and Antal Szava. we host QML researchers and discuss cutting-edge research contributions. 
+    * Host of QML meet up: Amira Abaas, I and Antal Szava host QML researchers and discuss cutting-edge research contributions. 
     * [QOSF mentorship program 2020](https://qosf.org/qc_mentorship/)
     * [CCUWIP Toronto 2020 Keynote speaker](https://ccuwip.cap.ca/)  
 * Software contributions:
