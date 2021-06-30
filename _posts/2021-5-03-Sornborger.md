@@ -43,10 +43,18 @@ using a suitable distance on quantum state space, it has been shown that in gene
 learn a target unitary, U, may be exponentially reduced. (is this different from how Srinivisan uses NFL theorem? classical training data - coherent
 states - and quantum training data - entangled coherent-Fock states)
 
-* For “classical” NFL theorem for CV systems, we use m-mode coherent states. Target unitary U reduces to 2mx2m orthogonal matrix O. Under assumptions of zero training error, they show that generalization error for this setting reduces linearly with the number of data points. When squeezed states are used, risk reduces quadratically in sample size. When we use m-mode entangled coherent-Fock states, risk decrease slinearly with t*|S|, where t is analogous to teh schmidt rank. 
+* For “classical” NFL theorem for CV systems, we use m-mode coherent states. Target unitary U reduces to 2mx2m orthogonal matrix O. Under assumptions of zero training error, they show that generalization error for this setting reduces linearly with the number of data points. When squeezed states are used, risk reduces quadratically in sample size. When we use m-mode entangled coherent-Fock states, risk decrease slinearly with t*|S|, where t is analogous to the schmidt rank. So, entamglement can reduce generalization error. This may seem good at first but entanglement is expensive to produce. 
+
+
+* Summary from NFL theorems: it is possible to perfectly
+learn an m-mode Gaussian operation by training
+on only 2m coherent states. entanglement may be
+used to reduce the amount of training data required to
+learn Gaussian operations. To learn an arbitrary unitary on a single training
+state requires a full rank state.
 
 Recap:
-* CV QO
+* CV QO, TMSS as full rank states
 
 Important refs:
 10, 14, 15, 34, 51, 53, 54, 59
