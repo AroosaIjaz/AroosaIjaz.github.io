@@ -39,12 +39,9 @@ the same action as U on any given input state
 training set is generalized to a set of quantum state pairs {psi, Upsi}. By defining the generalization error
 using a suitable distance on quantum state space, it has been shown that in general an exponential number of training states,|S|~ 2^n , are required to learn an n qubit unitary. 
 
-* An entanglement-enhanced quantum No-Free-Lunch theorem implies that the lower bound of the expected error of a quantum learning algorithm, over all target unitaries U is reduced linearly in r (schmidt rank of entangles pure states used as input). Hence, the number of input-output state pairs needed to
-learn a target unitary, U, may be exponentially reduced. (is this different from how Srinivisan uses NFL theorem? classical training data - coherent
-states - and quantum training data - entangled coherent-Fock states)
+* An entanglement-enhanced quantum No-Free-Lunch theorem implies that the lower bound of the expected error of a quantum learning algorithm, over all target unitaries U is reduced linearly in r (schmidt rank of entangles pure states used as input). Hence, the number of input-output state pairs needed to learn a target unitary, U, may be exponentially reduced. (is this different from how Srinivisan uses NFL theorem? classical training data - coherent states - and quantum training data - entangled coherent-Fock states)
 
 * For “classical” NFL theorem for CV systems, we use m-mode coherent states. Target unitary U reduces to 2mx2m orthogonal matrix O. Under assumptions of zero training error, they show that generalization error for this setting reduces linearly with the number of data points. When squeezed states are used, risk reduces quadratically in sample size. When we use m-mode entangled coherent-Fock states, risk decrease slinearly with t*|S|, where t is analogous to the schmidt rank. So, entamglement can reduce generalization error. This may seem good at first but entanglement is expensive to produce. 
-
 
 * Summary from NFL theorems: it is possible to perfectly
 learn an m-mode Gaussian operation by training
