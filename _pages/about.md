@@ -17,7 +17,7 @@ redirect_from:
     * Majorana Fermions for topological quantum computing
     * quantum transport in TMDCs
     * quantum optical effects in color centers in diamond
-    * spectroscopy on quantum wells and quantum dots 
+    * Cavity Quantum Electrodynamics (CQED) and spectroscopy in quantum wells and quantum dots 
 
 # Academic Services
 * Journal Reviewer:
