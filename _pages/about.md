@@ -21,6 +21,7 @@ redirect_from:
 
 # Academic Services
 * Journal Reviewer:
+    * [QTML 2021] (https://www.quantummachinelearning.org/qtml2021.html)
     * [QTML 2020](https://www.qtml2020.com/)
     * [PRX Quantum](https://journals.aps.org/prxquantum/)
 * QC Community:
