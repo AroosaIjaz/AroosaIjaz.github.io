@@ -43,4 +43,4 @@ redirect_from:
 * Dancing:
     * Salsa, Swing, Tango, Waltz, Cha Cha Cha, Bachata, Bhangra
 * Other interests: 
-    * Anthropology, Sociolgy, Psychology, Kung Fu, Current affairs, Urdu Litreture, painting 
+    * Anthropology, Sociolgy, Psychology, Kung Fu, Current affairs, Urdu Literature, painting 
