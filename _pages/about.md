@@ -32,3 +32,15 @@ redirect_from:
     * [PennyLane](https://pennylane.ai/)
     * [Strawberry Fields](https://strawberryfields.ai/) 
 * Co-inventor with Seth Lloyd and Maria Schuld: US Patent Application 17,118,004 "APPARATUS AND METHODS FOR QUANTUM COMPUTIING WITH PRE TRAINING"
+
+# Miscellaneous
+* Sports: 
+    * Badminton, Tennis, Squash, Ultimate Frisbee, Volleyball, Table Tennis, Cricket, Football
+* Music:
+    * Progressive, heavy and Avant Garde metal: Opeth, Tool, Symphony X, Dream Theater, Blind Guardian, Diablo Swing Orchestra, Lamb of God, Porcupine Tree
+* Reading:
+    * Classics: Fyodor Dostoevsky, Franz Kafka, Thomas Hardy, Bohumil Hrabal, Tolkien, Joseph Conrad
+* Dancing:
+    * Salsa, Swing, Tango, Waltz, Cha Cha Cha, Bachata, Bhangra
+* Other interests: 
+    * Anthropology, Sociolgy, Psychology, Kung Fu, Current affairs, Urdu Litreture, painting 
