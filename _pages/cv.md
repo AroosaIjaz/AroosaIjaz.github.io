@@ -39,4 +39,18 @@ Academic Services
 * Software contributions: [PennyLane](https://pennylane.ai/), [Strawberry Fields](https://strawberryfields.ai/) 
 * Co-inventor with Seth Lloyd and Maria Schuld: US Patent Application 17,118,004 "APPARATUS AND METHODS FOR QUANTUM COMPUTIING WITH PRE TRAINING"
 
+
+Miscellaneous
+=============
+* Sports: 
+    * Badminton, Tennis, Squash, Ultimate Frisbee, Volleyball, Table Tennis, Cricket, Football
+* Music:
+    * Progressive, heavy and Avant Garde metal: Opeth, Tool, Symphony X, Dream Theater, Blind Guardian, Diablo Swing Orchestra, Lamb of God, Porcupine Tree
+* Reading:
+    * Classics: Fyodor Dostoevsky, Franz Kafka, Thomas Hardy, Bohumil Hrabal, Tolkien, Joseph Conrad
+* Dancing:
+    * Salsa, Swing, Tango, Waltz, Cha Cha Cha, Bachata, Bhangra
+* Other interests: 
+    * Existentialism, Anthropology, Sociolgy, Psychology, Current affairs, Urdu Literature, painting, martial arts 
+
 [Curriculum Vitae [PDF]](http://AroosaIjaz.github.io/files/AroosaIjaz_CV.pdf)
