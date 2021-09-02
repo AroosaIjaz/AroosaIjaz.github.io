@@ -1,5 +1,5 @@
 ---
-title: "QML introduction summary"
+title: "QML: first steps"
 excerpt: "Introduction notes on QML"
 collection: portfolio
 ---
