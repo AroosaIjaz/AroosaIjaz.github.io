@@ -42,15 +42,10 @@ Academic Services
 
 Miscellaneous
 =============
-* Sports: 
-    * Badminton, Tennis, Squash, Ultimate Frisbee, Volleyball, Table Tennis, Cricket, Football
-* Music:
-    * Progressive, heavy and Avant Garde metal: Opeth, Tool, Symphony X, Dream Theater, Blind Guardian, Diablo Swing Orchestra, Lamb of God, Porcupine Tree
-* Reading:
-    * Classics: Fyodor Dostoevsky, Franz Kafka, Thomas Hardy, Bohumil Hrabal, Tolkien, Joseph Conrad
-* Dancing:
-    * Salsa, Swing, Tango, Waltz, Cha Cha Cha, Bachata, Bhangra
-* Other interests: 
-    * Existentialism, Anthropology, Sociolgy, Psychology, Current affairs, Urdu Literature, painting, martial arts 
+* Sports: Badminton, Tennis, Squash, Ultimate Frisbee, Volleyball, Table Tennis, Football
+* Music: Progressivemand Avant-Garde metal like Opeth, Tool, Symphony X, Dream Theater, Blind Guardian, Diablo Swing Orchestra, Lamb of God, Porcupine Tree, Megadeth
+* Reading: Classics like Fyodor Dostoevsky, Franz Kafka, Thomas Hardy, Bohumil Hrabal, Tolkien, Joseph Conrad, Albert Camus
+* Dancing: Salsa, Swing, Tango, Waltz, Cha Cha Cha, Bachata, Bhangra
+* Other interests: Existentialism, Anthropology, Sociolgy, Psychology, History, Urdu Literature, painting, martial arts 
 
 [Curriculum Vitae [PDF]](http://AroosaIjaz.github.io/files/AroosaIjaz_CV.pdf)
