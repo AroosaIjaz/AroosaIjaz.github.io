@@ -10,4 +10,4 @@ principles of quantum physics. These notes summarize the basic concepts of QML t
 They can be treated as a comprehensive first step or introduction to the field and contain detailed references
 that have been divided according to topic. I am sharing them here in case it helps anyone else.
 
-[Intro_QML [PDF]](http://AroosaIjaz.github.io/files/Intro_qml_website.pdf)
+
