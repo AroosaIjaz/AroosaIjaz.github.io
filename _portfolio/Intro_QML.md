@@ -11,3 +11,4 @@ They can be treated as a comprehensive first step or introduction to the field a
 that have been divided according to topic. I am sharing them here in case it helps anyone else.
 
 
+[Intro_QML [PDF]](http://AroosaIjaz.github.io/files/Intro_qml_website.pdf)
