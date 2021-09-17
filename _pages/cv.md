@@ -46,6 +46,6 @@ Miscellaneous
 * Music: Progressivemand Avant-Garde metal like Opeth, Tool, Symphony X, Dream Theater, Blind Guardian, Diablo Swing Orchestra, Lamb of God, Porcupine Tree, Megadeth
 * Reading: Classics like Fyodor Dostoevsky, Franz Kafka, Thomas Hardy, Bohumil Hrabal, Tolkien, Joseph Conrad, Albert Camus
 * Dancing: Salsa, Swing, Tango, Waltz, Cha Cha Cha, Bachata, Bhangra
-* Other interests: Existentialism, Sociolgy, Psychology, History, Urdu Literature, painting, martial arts 
+* Other interests: Existentialism, Absurdism, Philosophy, Sociolgy, Psychology, History, Urdu Literature, painting, martial arts 
 
 [Curriculum Vitae [PDF]](http://AroosaIjaz.github.io/files/AroosaIjaz_CV.pdf)
