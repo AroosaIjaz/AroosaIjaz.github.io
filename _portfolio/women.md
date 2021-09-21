@@ -1,5 +1,5 @@
 ---
-title: "Different yet similar"
+title: "Experiencing life as a woman: different yet similar"
 excerpt: "Experiencing life as a woman"
 collection: portfolio
 ---
