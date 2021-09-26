@@ -4,7 +4,7 @@ excerpt: "What is Kafkaesque in the current society? Just some personal musings 
 collection: portfolio
 ---
 
-Date: 01-09-2021
+Date: 20-08-2021
 
 Introduction:
 
