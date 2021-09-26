@@ -3,6 +3,7 @@ title: "QML: first steps"
 excerpt: "Introduction notes on QML"
 collection: portfolio
 ---
+Date: 01-09-2021
 
 Quantum machine learning (QML) is a rapidly emerging field of immense industrial and scientific
 interest. It beautifully merges the ideas and applications of machine learning with the enigmatic
