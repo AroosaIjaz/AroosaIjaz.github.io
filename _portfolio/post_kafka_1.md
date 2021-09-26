@@ -4,6 +4,8 @@ excerpt: "What is Kafkaesque in the current society? Just some personal musings 
 collection: portfolio
 ---
 
+Date: 01-09-2021
+
 Introduction:
 
 Kafka is one of the most impactful and relatable authors that I have ever read. Another author with that level of deep effect is Dostoyevsky. They both are so amazing! It is like looking at the society but without its thin shell of fake civilization. Maybe, I can write a separate document where I compare them in-depth. 
