@@ -3,7 +3,7 @@ title: "Accepting change"
 excerpt: "Dealing with change in and around you"
 collection: portfolio
 ---
-Date: 11-11-2021
+Date: 15-09-2021
 
 This has been a really hard year for everyone. The pandemic has thrown our inadequacies and meaninglessness of life into perspective. So much has changed and yet so much has not. I want to lament that my life was turned upside down but "How do you know that your life would not be better turned upside down?" as was said by Shams-i-Tabrizi. 
 
