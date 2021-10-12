@@ -48,4 +48,4 @@ Miscellaneous
 * Dancing: Salsa, Swing, Tango, Waltz, Cha Cha Cha, Bachata, Bhangra
 * Other interests: Existentialism, Absurdism, Philosophy, Sociolgy, Psychology, History, Urdu Literature, painting, martial arts 
 
-[Curriculum Vitae [PDF]](http://AroosaIjaz.github.io/files/AroosaIjaz_CV.pdf)
+[Curriculum Vitae [PDF]](http://AroosaIjaz.github.io/files/Aroosa_Ijaz_CV_2021.pdf)
