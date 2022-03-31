@@ -40,12 +40,12 @@ Academic Services
 * Co-inventor with Seth Lloyd and Maria Schuld: US Patent Application 17,118,004 "APPARATUS AND METHODS FOR QUANTUM COMPUTIING WITH PRE TRAINING"
 
 
-Miscellaneous
-=============
+Miscellaneous Interests
+=======================
 * Sports: Badminton, Tennis, Squash, Ultimate Frisbee, Volleyball, Table Tennis, Football
-* Music: Progressivemand Avant-Garde metal like Opeth, Tool, Symphony X, Dream Theater, Blind Guardian, Diablo Swing Orchestra, Lamb of God, Porcupine Tree, Megadeth
-* Reading: Classics like Fyodor Dostoevsky, Franz Kafka, Thomas Hardy, Bohumil Hrabal, Tolkien, Joseph Conrad, Albert Camus
+* Music: Progressive and Avant-Garde metal like Opeth, Tool, Symphony X, Sepultura, Gojira, Dream Theater, Blind Guardian, Diablo Swing Orchestra, Lamb of God, Porcupine Tree, Megadeth
+* Reading: Classics like Fyodor Dostoevsky, Franz Kafka, Thomas Hardy, Albert Camus, Bohumil Hrabal, Tolkien, Joseph Conrad 
 * Dancing: Salsa, Swing, Tango, Waltz, Cha Cha Cha, Bachata, Bhangra
-* Other interests: Existentialism, Absurdism, Philosophy, Sociolgy, Psychology, History, Urdu Literature, painting, martial arts 
+* Other interests: Existentialism, Absurdism, Sociolgy, behavioural Psychology, History, Urdu Literature, painting, martial arts 
 
 [Curriculum Vitae [PDF]](http://AroosaIjaz.github.io/files/Aroosa_Ijaz_CV_2021.pdf)
