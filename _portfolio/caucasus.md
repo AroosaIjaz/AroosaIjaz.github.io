@@ -1,6 +1,6 @@
 ---
-title: "Caucasus: different yet similar"
-excerpt: "Absurdity of seeing differences"
+title: "Caucasus"
+excerpt: "Absurdity of differences"
 collection: portfolio
 ---
 Date: 20-09-2021
