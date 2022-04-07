@@ -34,16 +34,15 @@ Awards
 
 Academic Services
 =================
+* Patent: US Patent Application 17,118,004 "APPARATUS AND METHODS FOR QUANTUM COMPUTIING WITH PRE TRAINING"
 * Journal Reviewer: QTML 2022, QTML 2021, [QTML 2020](https://www.qtml2020.com/), [PRX Quantum](https://journals.aps.org/prxquantum/), [PRL](https://journals.aps.org/prl/)
 * QC Community: [QOSF mentorship program 2020](https://qosf.org/qc_mentorship/), [CCUWIP Toronto 2020 Keynote speaker](https://ccuwip.cap.ca/)  
 * Software contributions: [PennyLane](https://pennylane.ai/), [Strawberry Fields](https://strawberryfields.ai/) 
-* Co-inventor with Seth Lloyd and Maria Schuld: US Patent Application 17,118,004 "APPARATUS AND METHODS FOR QUANTUM COMPUTIING WITH PRE TRAINING"
-
 
 Miscellaneous Interests
 =======================
 * Sports: Badminton, Tennis, Squash, Ultimate Frisbee, Volleyball, Table Tennis, Football
-* Music: Progressive and Avant-Garde metal like Opeth, Tool, Symphony X, Sepultura, Gojira, Dream Theater, Blind Guardian, Diablo Swing Orchestra, Lamb of God, Porcupine Tree, Megadeth
+* Music: Progressive and Avant-Garde metal like Opeth, Tool, Sepultura, Gojira, Symphony X, Dream Theater, Blind Guardian, Diablo Swing Orchestra, Lamb of God, Porcupine Tree, Megadeth
 * Reading: Classics like Fyodor Dostoevsky, Franz Kafka, Thomas Hardy, Albert Camus, Bohumil Hrabal, Tolkien, Joseph Conrad 
 * Dancing: Salsa, Swing, Tango, Waltz, Cha Cha Cha, Bachata, Bhangra
 * Other interests: Existentialism, Absurdism, Sociolgy, behavioural Psychology, History, Urdu Literature, painting, martial arts 
