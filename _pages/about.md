@@ -31,10 +31,8 @@ redirect_from:
     * Co-inventor with Seth Lloyd and Maria Schuld: US Patent Application 17,118,004 "APPARATUS AND METHODS FOR QUANTUM COMPUTIING WITH PRE TRAINING"
 # Community Engagement 
 * Host of [QML meet up](https://www.youtube.com/channel/UCwGLdESE9yLrYzIiwOfcW5g): Amira Abaas, I and Antal Szava host QML researchers and discuss cutting-edge research contributions. 
-* [QOSF mentorship program 2020](https://qosf.org/qc_mentorship/)
-* [International Women’s Day Conference 2022 speaker](https://www.linkedin.com/pulse/international-womens-day-conference-2022-mariam-hussain/?trackingId=tPAiNUltShCRQ%2BzwZXuvZQ%3D%3D)
-* [Physics camp for Girls 2021 speaker](https://physicscamp4girls.pk/)
-* [CCUWIP Toronto 2020 Keynote speaker](https://ccuwip.cap.ca/)  
-
-
+* Mentor: [QOSF mentorship program 2020](https://qosf.org/qc_mentorship/)
+* Keynote speaker: [CCUWIP Toronto 2020](https://ccuwip.cap.ca/)  
+* Speaker: [Physics camp for Girls 2021](https://physicscamp4girls.pk/)
+* Speaker: [International Women’s Day Conference 2022](https://www.linkedin.com/pulse/international-womens-day-conference-2022-mariam-hussain/?trackingId=tPAiNUltShCRQ%2BzwZXuvZQ%3D%3D)
 
