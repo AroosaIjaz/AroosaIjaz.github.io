@@ -29,6 +29,7 @@ redirect_from:
     * [Strawberry Fields](https://strawberryfields.ai/) 
 * Patent:
     * Co-inventor with Seth Lloyd and Maria Schuld: US Patent Application 17,118,004 "APPARATUS AND METHODS FOR QUANTUM COMPUTIING WITH PRE TRAINING"
+
 # Community Engagement 
 * Host of [QML meet up](https://www.youtube.com/channel/UCwGLdESE9yLrYzIiwOfcW5g): Amira Abaas, I and Antal Szava host QML researchers and discuss cutting-edge research contributions. 
 * Mentor: [QOSF mentorship program 2020](https://qosf.org/qc_mentorship/)
