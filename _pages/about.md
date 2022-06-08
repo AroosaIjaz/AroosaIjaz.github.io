@@ -15,7 +15,7 @@ redirect_from:
 * In the past, I have worked on:
     * QML algorithms for NISQ devices
     * Majorana Fermions for topological quantum computing
-    * quantum transport in TMDCs
+    * quantum transport in transition metal dichalcogenides (TMDCs)
     * quantum optical effects in color centers in diamond
     * Cavity Quantum Electrodynamics (CQED) and spectroscopy in quantum wells and quantum dots 
 
