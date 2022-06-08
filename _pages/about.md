@@ -33,7 +33,7 @@ redirect_from:
 # Community Engagement 
 * Host of [QML meet up](https://www.youtube.com/channel/UCwGLdESE9yLrYzIiwOfcW5g): Amira Abaas, I and Antal Szava host QML researchers and discuss cutting-edge research contributions. 
 * Mentor: [QOSF mentorship program 2020](https://qosf.org/qc_mentorship/)
-* Keynote speaker: [CCUWIP Toronto 2020](https://ccuwip.cap.ca/)  
+* Keynote speaker: [Canadian Conference for Undergraduate Women in Physics(CCUWIP) Toronto 2020](https://ccuwip.cap.ca/)  
 * Speaker: [Physics camp for Girls 2021](https://physicscamp4girls.pk/)
 * Speaker: [International Women’s Day Conference 2022](https://www.linkedin.com/pulse/international-womens-day-conference-2022-mariam-hussain/?trackingId=tPAiNUltShCRQ%2BzwZXuvZQ%3D%3D)
 
