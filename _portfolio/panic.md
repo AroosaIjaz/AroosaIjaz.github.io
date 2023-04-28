@@ -7,8 +7,7 @@ collection: portfolio
 Date: 28-04-2023
 
 I wonder how different people behave when they are panicked. Panics may differ in type, context and duration. some are instantaneous like in 
-a sudden accident, an assault or an unexpected change in your plans. others can persist and devour you over years like dealing with menatal health issues and
-the corresponding identity crises. 
+a sudden accident, an assault or an unexpected change in your plans. others can persist and devour you over years like dealing with menatal health issues and the panic induced by the corresponding identity crises. 
 
 
 Does one get taught on how to deal with this? is it ok to judge someone’s character based on how they handle such a situation? especially in cases of sudden panic or assault, is it always some buil-in genetically coded instinct that takes over or does your subconcious get a moment to break through. Do you always loose or change a part
