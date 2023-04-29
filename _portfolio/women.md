@@ -16,7 +16,7 @@ Whether it is
 * a girl in Florida who is discouraged to pursue science by antiquated ideas like "nerdy or geeky girls are undesirable" or "ugly girls become nerds"
 * a girl in Gujrat who has 7 sisters because her parents kept wanting a boy
 * a young female scientist in Munich who is rejected for a scientific position because she is in her "baby producing years"
-* an aspiring astrophysicist in Italy who gives up on her dremas because it might not be safe to travel and work at remote locations at night
+* an aspiring astrophysicist in Italy who gives up on her dreams because it might not be safe to travel and work at remote locations at night
 * or Alanis Morissette who - entrusted to expert musicians so she can learn and explore her musical talents - is exploited in every manner
 
 the underlying factor is always an imbalance in power, the perpetrator's audacity to exploit it and the victim's lifelong struggle with its consequences. 
