@@ -11,7 +11,7 @@ You can not choose where you are born. Growing up in Lahore in a sunni muslim fa
 I am extremely greatful for it. Yes, there are countless challenges at every step when you are born a woman in Pakistan. However, I do love the soul of the Punjabi culture I grew up in and want to share a bit about it here. 
 
 
-Starting in the twelfth century, maybe with the formation of the [Delhi Sultanate](https://en.wikipedia.org/wiki/Delhi_Sultanate), teachings of Persian Islam and (Sufism)[https://en.wikipedia.org/wiki/Sufism] mixed with the Indian subcontinent life to create a uniquely beautiful culture of expression, contemplation, wandering dervishes, spirituality and love. 
+Starting in the twelfth century, maybe with the formation of the [Delhi Sultanate](https://en.wikipedia.org/wiki/Delhi_Sultanate), teachings of Persian Islam and [Sufism](https://en.wikipedia.org/wiki/Sufism) mixed with the Indian subcontinent life to create a uniquely beautiful culture of expression, contemplation, wandering dervishes, spirituality and love. 
 
 
 Overall, it emphasizes being selfless, sympathetic, generous and non-materialistic. It teaches you about the meaninglessness of a vain life, to explore your own self, to let go of desires/ego and to respect and help every fellow creature as much as possible. It portrays love as a path to the divine. Some philosophers advocated to live in poverty and suffering adversity to ease life for others.  
