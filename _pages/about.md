@@ -13,6 +13,7 @@ redirect_from:
 * My PhD supervisors are Juan Felipe Carrasquilla and Roger Melko
 * My research interests lie at the intersection of machine learning and Physics, in particular quantum learning theory, quantum-enhanced machine learning and applications of classical machine learning in many-body Physics.
 * In the past, I have worked on:
+    * Quantum learning theory 
     * QML algorithms for NISQ devices
     * Majorana Fermions for topological quantum computing
     * quantum transport in transition metal dichalcogenides (TMDCs)
