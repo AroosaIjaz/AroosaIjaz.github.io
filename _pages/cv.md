@@ -38,7 +38,7 @@ Awards
 Academic Services
 =================
 * Patent: US Patent Application 17,118,004 "APPARATUS AND METHODS FOR QUANTUM COMPUTIING WITH PRE TRAINING"
-* Journal Reviewer: QTML 2022, QTML 2021, [QTML 2020](https://www.qtml2020.com/), [PRX Quantum](https://journals.aps.org/prxquantum/), [PRL](https://journals.aps.org/prl/)
+* Journal Reviewer: QTML 2023, QTML 2022, QTML 2021, [QTML 2020](https://www.qtml2020.com/), [PRX Quantum](https://journals.aps.org/prxquantum/), [PRL](https://journals.aps.org/prl/)
 * QC Community: [QOSF mentorship program 2020](https://qosf.org/qc_mentorship/), [CCUWIP Toronto 2020 Keynote speaker](https://ccuwip.cap.ca/)  
 * Software contributions: [PennyLane](https://pennylane.ai/), [Strawberry Fields](https://strawberryfields.ai/) 
 
@@ -50,4 +50,4 @@ Miscellaneous Interests
 * Dancing: Salsa, Swing, Tango, Waltz, Cha Cha Cha, Bachata, Bhangra
 * Other interests: Existentialism, Absurdism, Sociolgy, behavioural Psychology, History, Urdu Literature, painting, martial arts 
 
-[Curriculum Vitae [PDF]](http://AroosaIjaz.github.io/files/Aroosa_CV_Mar2022.pdf)
+[Curriculum Vitae [PDF]](http://AroosaIjaz.github.io/files/Aroosa_CV_Oct2023.pdf)
