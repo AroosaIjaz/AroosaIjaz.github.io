@@ -42,6 +42,14 @@ Academic Services
 * QC Community: [QOSF mentorship program 2020](https://qosf.org/qc_mentorship/), [CCUWIP Toronto 2020 Keynote speaker](https://ccuwip.cap.ca/)  
 * Software contributions: [PennyLane](https://pennylane.ai/), [Strawberry Fields](https://strawberryfields.ai/) 
 
+Cities I have lived in
+======================
+* Lahore, Pakistan
+* Ulm, Germany
+* Zurich, Switzerland
+* Toronto, Canada
+* Los Alamos, USA
+
 Miscellaneous Interests
 =======================
 * Sports: Badminton, Tennis, Squash, Ultimate Frisbee, Volleyball, Table Tennis, Football
