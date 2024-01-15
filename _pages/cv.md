@@ -11,15 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D Physics, Univeristy of Waterloo, 2020-2024
-* Affiliated graduate researcher at Vector Institute for Artificial Intelligence, Toronto, 2020-2024
+* Ph.D Physics, Univeristy of Waterloo, 2020-2025
+* Affiliated graduate researcher at Vector Institute for Artificial Intelligence, Toronto, 2020-2025
 * Ph.D Physics, ETH Zürich, 2016-2018 (changed research field from experimental to theoretical quantum computing)
 * M.Sc. Physics, Ulm University, 2014-2016
 * B.Sc. Physics, Computer Science, Lahore University of Management Sciences, 2009-2013
 
 Work experience
 ======
-* Graduate researcher, Theory division, LANL. September 2023 onwards
+* Visiting graduate researcher, Jens Eisert Group, Freie University Berlin. January to April 2024
+* Graduate researcher, Theory division, LANL. September to December 2023 
 * Intern Quantum Computing Summer school, LANL. June to August 2023
 * Quantum machine learning scientist at Xanadu. May 2019 to August 2020
 * Research assistant with Prof. Fedor Jelezko at Institute for Quantum Optics, Ulm University. May 2015 to August 2016
