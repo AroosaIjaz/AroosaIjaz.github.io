@@ -10,9 +10,9 @@ redirect_from:
 
 # About Me
 * I am a Physics Ph.D. student at the University of Waterloo.
+* My PhD supervisors are Juan Felipe Carrasquilla and Roger Melko.
 * I am an affiliated graduate researcher at Los Alamos National Laboratory and at Vector Institute in Toronto (Sep-Dec 2023).
 * I am a visiting graduate researcher at Jens Eisert's group at Freie University in Berlin (Jan-Apr 2024) 
-* My PhD supervisors are Juan Felipe Carrasquilla and Roger Melko.
 * My research interests lie at the intersection of machine learning and Physics, in particular quantum learning theory, quantum-enhanced machine learning and applications of classical machine learning in many-body Physics.
 * In the past, I have worked on:
     * Quantum learning theory 
@@ -32,7 +32,7 @@ redirect_from:
 
 # Academic Services
 * Journal Reviewer:
-    * QTML 2023, [QTML 2022](https://quasar.unina.it/qtml2022.html), [QTML 2021](https://www.quantummachinelearning.org/qtml2021.html), [QTML 2020](https://www.qtml2020.com/)
+    * [QTML 2023](https://qtml-2023.web.cern.ch/), [QTML 2022](https://quasar.unina.it/qtml2022.html), [QTML 2021](https://www.quantummachinelearning.org/qtml2021.html), [QTML 2020](https://www.qtml2020.com/)
     * [PRX Quantum](https://journals.aps.org/prxquantum/)
     * [PRL](https://journals.aps.org/prl/)
 * Software contributions:
