@@ -10,7 +10,8 @@ redirect_from:
 
 # About Me
 * I am a Physics Ph.D. student at the University of Waterloo.
-* I am an affiliated graduate researcher at Los Alamos National Laboratory and at Vector Institute in Toronto. 
+* I am an affiliated graduate researcher at Los Alamos National Laboratory and at Vector Institute in Toronto (Sep-Dec 2023).
+* I am a visiting graduate researcher at Jens Eisert's group at Freie University in Berlin (Jan-Apr 2024) 
 * My PhD supervisors are Juan Felipe Carrasquilla and Roger Melko.
 * My research interests lie at the intersection of machine learning and Physics, in particular quantum learning theory, quantum-enhanced machine learning and applications of classical machine learning in many-body Physics.
 * In the past, I have worked on:
