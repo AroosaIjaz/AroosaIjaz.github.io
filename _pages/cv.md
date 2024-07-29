@@ -50,6 +50,8 @@ Cities I have lived in
 * Zurich, Switzerland
 * Toronto, Canada
 * Los Alamos, USA
+* Berlin, Germany
+* Oxford, UK
 
 Miscellaneous Interests
 =======================
