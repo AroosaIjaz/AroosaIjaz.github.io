@@ -11,8 +11,8 @@ redirect_from:
 # About Me
 * I am a Physics Ph.D. student at the University of Waterloo.
 * My PhD supervisors are Juan Felipe Carrasquilla and Roger Melko.
-* I am an affiliated graduate researcher at Los Alamos National Laboratory and at Vector Institute in Toronto (Sep-Dec 2023).
-* I am a visiting graduate researcher at Jens Eisert's group at Freie University in Berlin (Jan-Apr 2024) 
+* affiliated graduate researcher at Los Alamos National Laboratory and at Vector Institute in Toronto.
+* visiting graduate researcher at Jens Eisert's group at Freie University in Berlin (Jan-Apr 2024) 
 * My research interests lie at the intersection of machine learning and Physics, in particular quantum learning theory, quantum-enhanced machine learning and applications of classical machine learning in many-body Physics.
 * In the past, I have worked on:
     * Quantum learning theory 
@@ -29,6 +29,8 @@ redirect_from:
 * Keynote speaker: [Canadian Conference for Undergraduate Women in Physics(CCUWIP) Toronto 2020](https://ccuwip.cap.ca/)  
 * Speaker: [Physics camp for Girls 2021](https://physicscamp4girls.pk/)
 * Speaker: [International Women’s Day Conference 2022](https://www.linkedin.com/pulse/international-womens-day-conference-2022-mariam-hussain/?trackingId=tPAiNUltShCRQ%2BzwZXuvZQ%3D%3D)
+* Speaker: [EQAI 2023](https://eqai.eu/past-editions/) 
+* Lecturer: [Quantum Barsaat 2024](https://qpakistan.org/quantum-barsaat-2024.html)
 
 # Academic Services
 * Journal Reviewer:
