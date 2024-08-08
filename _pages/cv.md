@@ -56,7 +56,7 @@ Cities I have lived in
 Miscellaneous Interests
 =======================
 * Sports: Badminton, Tennis, Squash, Ultimate Frisbee, Volleyball, Table Tennis, Football
-* Music: Heavy, death, progressive, and Avant-Garde metal like Sepultura, Gojira, Opeth, Tool, Symphony X, Dream Theater, Blind Guardian, Diablo Swing Orchestra, Lamb of God, Porcupine Tree, Megadeth, Acrassicauda
+* Music: Heavy, death, progressive, and Avant-Garde metal. Some of my favorite bands: Sepultura, Gojira, Opeth, Tool, Lamb of God, Symphony X, Dream Theater, Acrassicauda, Death, Blind Guardian, Diablo Swing Orchestra, Porcupine Tree, Megadeth 
 * Reading: Classics like Fyodor Dostoevsky, Franz Kafka, Thomas Hardy, Albert Camus, Bohumil Hrabal, JRR Tolkien, Joseph Conrad, Vsevolod Garshin
 * Dancing: Salsa, Swing, Tango, Waltz, Cha Cha Cha, Bachata, Bhangra
 * Other interests: Existentialism, Absurdism, Sociology, behavioral Psychology, History, Urdu Literature, painting, martial arts 
