@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D Physics, Univeristy of Waterloo, 2020-2025
+* Ph.D Physics, University of Waterloo, 2020-2025
 * Affiliated graduate researcher at Vector Institute for Artificial Intelligence, Toronto, 2020-2025
 * Ph.D Physics, ETH Zürich, 2016-2018 (changed research field from experimental to theoretical quantum computing)
 * M.Sc. Physics, Ulm University, 2014-2016
@@ -56,9 +56,9 @@ Cities I have lived in
 Miscellaneous Interests
 =======================
 * Sports: Badminton, Tennis, Squash, Ultimate Frisbee, Volleyball, Table Tennis, Football
-* Music: Progressive and Avant-Garde metal like Opeth, Tool, Sepultura, Gojira, Symphony X, Dream Theater, Blind Guardian, Diablo Swing Orchestra, Lamb of God, Porcupine Tree, Megadeth
-* Reading: Classics like Fyodor Dostoevsky, Franz Kafka, Thomas Hardy, Albert Camus, Bohumil Hrabal, Tolkien, Joseph Conrad, Garshin
+* Music: Heavy, death, progressive, and Avant-Garde metal like Sepultura, Gojira, Opeth, Tool, Symphony X, Dream Theater, Blind Guardian, Diablo Swing Orchestra, Lamb of God, Porcupine Tree, Megadeth, Acrassicauda
+* Reading: Classics like Fyodor Dostoevsky, Franz Kafka, Thomas Hardy, Albert Camus, Bohumil Hrabal, JRR Tolkien, Joseph Conrad, Vsevolod Garshin
 * Dancing: Salsa, Swing, Tango, Waltz, Cha Cha Cha, Bachata, Bhangra
-* Other interests: Existentialism, Absurdism, Sociolgy, behavioural Psychology, History, Urdu Literature, painting, martial arts 
+* Other interests: Existentialism, Absurdism, Sociology, behavioral Psychology, History, Urdu Literature, painting, martial arts 
 
 [Curriculum Vitae [PDF]](http://AroosaIjaz.github.io/files/Aroosa_CV_Oct2023.pdf)
