@@ -78,6 +78,6 @@ Miscellaneous Interests
 * Music: Heavy, death, progressive, and Avant-Garde metal. Some of my favorite bands: Sepultura, Gojira, Opeth, Tool, Lamb of God, Symphony X, Dream Theater, Acrassicauda, Death, Blind Guardian, Diablo Swing Orchestra, Porcupine Tree, Megadeth 
 * Reading: Classics and fiction like Fyodor Dostoevsky, Franz Kafka, Thomas Hardy, Albert Camus, Bohumil Hrabal, JRR Tolkien, Joseph Conrad, Vsevolod Garshin
 * Dancing: Salsa, Swing, Tango, Waltz, Cha Cha Cha, Bachata, Bhangra
-* Other interests: Existentialism, Absurdism, Sociology, Behavioral Psychology, History, Literature, painting, martial arts 
+* Other interests: Drums, Existentialism, Absurdism, Sociology, Behavioral Psychology, History, Literature, painting, martial arts 
 
 [Curriculum Vitae [PDF]](http://AroosaIjaz.github.io/files/Aroosa_CV_Oct2023.pdf)
