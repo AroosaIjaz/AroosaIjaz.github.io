@@ -45,7 +45,7 @@ Community Engagement
 * Keynote speaker: [Canadian Conference for Undergraduate Women in Physics(CCUWIP) Toronto 2020](https://ccuwip.cap.ca/)  
 * Speaker: [Physics camp for Girls 2021](https://physicscamp4girls.pk/)
 * Speaker: [International Women’s Day Conference 2022](https://www.linkedin.com/pulse/international-womens-day-conference-2022-mariam-hussain/?trackingId=tPAiNUltShCRQ%2BzwZXuvZQ%3D%3D)
-* Speaker: [Research To Reality](https://www.technioncanada.org/events/research-to-reality/)
+* Speaker: [Research To Reality Symposium 2022](https://www.technioncanada.org/events/research-to-reality/)
 * Speaker: [EQAI 2023](https://eqai.eu/past-editions/) 
 * Lecturer: [Quantum Barsaat 2024](https://qpakistan.org/quantum-barsaat-2024.html)
 
