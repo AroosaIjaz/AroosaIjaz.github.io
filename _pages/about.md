@@ -33,21 +33,3 @@ redirect_from:
 * Speaker: [Research To Reality Symposium 2022](https://www.technioncanada.org/events/research-to-reality/)
 * Speaker: [EQAI 2023](https://eqai.eu/past-editions/) 
 * Lecturer: [Quantum Barsaat 2024](https://qpakistan.org/quantum-barsaat-2024.html)
-
-# Academic Services
-* Journal Reviewer:
-    * [QTML 2023](https://qtml-2023.web.cern.ch/), [QTML 2022](https://quasar.unina.it/qtml2022.html), [QTML 2021](https://www.quantummachinelearning.org/qtml2021.html), [QTML 2020](https://www.qtml2020.com/)
-    * [PRX Quantum](https://journals.aps.org/prxquantum/)
-    * [PRL](https://journals.aps.org/prl/)
-* Software contributions:
-    * [PennyLane](https://pennylane.ai/)
-    * [Strawberry Fields](https://strawberryfields.ai/) 
-* Patent:
-    * Co-inventor with Seth Lloyd and Maria Schuld: US Patent Application 17,118,004 "APPARATUS AND METHODS FOR QUANTUM COMPUTIING WITH PRE TRAINING"
-
-# Miscellaneous Interests
-* Sports: Badminton, Tennis, Squash, Ultimate Frisbee, Volleyball, Table Tennis, Football
-* Music: Heavy, death, progressive, and Avant-Garde metal. Some of my favorite bands: Sepultura, Gojira, Opeth, Tool, Lamb of God, Symphony X, Dream Theater, Acrassicauda, Death, Blind Guardian, Diablo Swing Orchestra, Porcupine Tree, Megadeth 
-* Reading: Classics and fiction like Fyodor Dostoevsky, Franz Kafka, Thomas Hardy, Albert Camus, Bohumil Hrabal, JRR Tolkien, Joseph Conrad, Vsevolod Garshin
-* Dancing: Salsa, Swing, Tango, Waltz, Cha Cha Cha, Bachata, Bhangra
-* Other interests: Drums, Existentialism, Absurdism, Sociology, Behavioral Psychology, History, Literature, painting, martial arts 
