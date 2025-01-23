@@ -32,4 +32,4 @@ redirect_from:
 * Speaker: [International Women’s Day Conference 2022](https://www.linkedin.com/pulse/international-womens-day-conference-2022-mariam-hussain/?trackingId=tPAiNUltShCRQ%2BzwZXuvZQ%3D%3D)
 * Speaker: [Research To Reality Symposium 2022](https://www.technioncanada.org/events/research-to-reality/)
 * Speaker: [EQAI 2023](https://eqai.eu/past-editions/) 
-* Lecturer: [Quantum Barsaat 2024](https://qpakistan.org/quantum-barsaat-2024.html)
+* Lecturer and Panelist: [Quantum Barsaat 2024](https://qpakistan.org/quantum-barsaat-2024.html)
