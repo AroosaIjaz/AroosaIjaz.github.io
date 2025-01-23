@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+[Curriculum Vitae [PDF]](http://AroosaIjaz.github.io/files/Aroosa_CV_git_jan_2025.pdf)
+
 Education
 ======
-* Ph.D Physics, University of Waterloo, 2020-2025
+* Ph.D Physics, University of Waterloo, 2020-Present
 * Affiliated graduate researcher at Vector Institute for Artificial Intelligence, Toronto, 2020-2025
 * Ph.D Physics, ETH Zürich, 2016-2018 (changed research field from experimental to theoretical quantum computing)
 * M.Sc. Physics, Ulm University, 2014-2016
@@ -85,4 +87,4 @@ Miscellaneous Interests
   
 * Other interests: Drums, Existentialism, Absurdism, Sociology, Behavioral Psychology, History, Literature, painting, martial arts 
 
-[Curriculum Vitae [PDF]](http://AroosaIjaz.github.io/files/Aroosa_CV_Oct2023.pdf)
+
