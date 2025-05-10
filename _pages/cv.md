@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitae [PDF]](http://AroosaIjaz.github.io/files/Aroosa_CV_git_jan_2025.pdf)
+[Curriculum Vitae [PDF]](http://AroosaIjaz.github.io/files/Aroosa_CV(4).pdf)
 
 Education
 ======
