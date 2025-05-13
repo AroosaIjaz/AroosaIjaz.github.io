@@ -6,7 +6,7 @@ collection: portfolio
 
 Date: 12-05-2025
 
-As soon as I could reason as a child, I could see shackles around me
+As soon as I could reason as a child, I could see shackles around me \\
 shackles that were bigger than life
 shackles around my ankles 
 shackles around my throat
