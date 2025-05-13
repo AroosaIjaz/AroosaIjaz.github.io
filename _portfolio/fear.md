@@ -16,7 +16,9 @@ shackles around my throat
 
 shackles that become bigger and heavier with every momemt
 
-I desperately looked around...every woman around me had her own...Some grow up thinking that these shackles are part of their bodies...Some try and fight them in their rebellious teens and then succumb...Some keep fighting them till they can get more wiggle room. The chains seem to get a bit longer and they can walk a bit farther before they are pulled back
+I desperately looked around...every woman around me had her own...every one was drowning...
+
+Some of us grow up thinking that these shackles are part of their bodies...Some try and fight them in their rebellious teens and then succumb...Some keep fighting them till they can get more wiggle room. The chains seem to get a bit longer and they can walk a bit farther before they are pulled back
 
 They knaw at you
 
