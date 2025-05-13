@@ -45,4 +45,5 @@ years later...I still do...it gave me fantasy to mull over...a possible escape! 
 
 
 We are tired...of being your punching bag, of being your shame, of being your honor, of being your achivement, of being your vanity
+
 We are tired of your schackles
