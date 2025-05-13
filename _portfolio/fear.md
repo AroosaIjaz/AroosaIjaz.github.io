@@ -38,6 +38,6 @@ When I was in high school, I worked on a project to design a self-sufficient col
 years later...I still do...it gave me fantasy to mull over...a possible escape! should all women go there...will we be safe there...? 
 
 
-We are tired...of being your punching bag, of being your shame, of being your honor, of being your achivement, of being your vanity
+We are tired...of being your punching bag, of being your shame, of being your honor, of being your achivement, of being your vanity, of being defined through you
 
 We are tired of your schackles
