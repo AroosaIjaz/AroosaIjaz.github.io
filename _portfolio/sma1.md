@@ -16,4 +16,4 @@ I share here the presentation (first of many) I made for a non-profit I am worki
 
 I will continue to share my journey here as I dive deeper into this project.
 
-[MALPRACTICES IN THE CANADIAN LEGAL SYSTEM AROUND SEXUAL VIOLENCE](https://github.com/AroosaIjaz/AroosaIjaz.github.io/blob/master/files/Session2_SMA.pdf)
+[MALPRACTICES IN THE CANADIAN LEGAL SYSTEM AROUND SEXUAL VIOLENCE [PDF]](https://github.com/AroosaIjaz/AroosaIjaz.github.io/blob/master/files/Session2_SMA.pdf)
