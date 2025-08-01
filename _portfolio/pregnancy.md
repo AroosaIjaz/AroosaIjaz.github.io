@@ -9,7 +9,7 @@ Date: 01-07-2025
 If I come to you and tell you that you need to take a pill. 
 The reasons are multi-layered. 
 You will feel sick for some months but it is also so pertinant that you do this. 
-It is very important for the familial and social fabric that you do that. It is for the greater good.
+It is very important for the familial and social fabric that you do this. It is for the greater good.
 In the long scheme of things, you will be thankful you went through it. It will give your life meaning.
 It is only a few months of inconvenience. It will be very rewarding in the end. For everyone, especially for you. 
 
