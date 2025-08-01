@@ -12,9 +12,10 @@ This eye-opening quest started when I met the author of this book at a social ev
 
 Only 5-6% of all such crimes are reported to the police, while 50% of all Canadian women have experienced at least one incident of sexual or physical assault in their lifetime ([source](https://www150.statcan.gc.ca/n1/pub/85-002-x/2024001/article/00007-eng.htm)). 
 
-There are an insane number of problems and perspectives to look at in this topic, from child sexual abuse (their testimonies are more likely to be discredited by defense lawyers) to religious and ethnicity influences (Canadian native women are 4 times more likely to experience sexual assaul. South Asian muslim women are many folds less likely to report such crimes) to what can the punishments and prison time convictions really do to "fix" this issue...
+There are an insane number of problems and perspectives to look at in this topic, from child sexual abuse (their testimonies are more likely to be discredited by defense lawyers) to religious and ethnicity influences (Canadian native women are 4 times more likely to experience sexual assaul. South Asian muslim women are many folds less likely to report such crimes) to analyzing what prison time convictions do to "fix" this issue...
 
 I share here the presentation (first of many) I made for a non-profit I am working for right now. I narrowed down to one very particular problem that I think can have broader impact and is likely solvable: trial setup and lack of legal representation for the victims. 
+[MALPRACTICES IN THE CANADIAN LEGAL SYSTEM AROUND SEXUAL VIOLENCE [PDF]](http://AroosaIjaz.github.io/files/Session2_SMA.pdf)
 
 Do you know that if you experience sexual violence and report it to the police, in case it goes to trial (not highly likely - see presentation), you do not get any legal representation. The accused person does. The case is setup as Crown vs the accused; an antiquated setup from centuries ago that continues to fail us to this day. You are only brought in as a witness to be questioned. You do not get to see or participate or input in the trial of your own assault in any way. 
 
