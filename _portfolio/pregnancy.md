@@ -28,6 +28,10 @@ Do you think it is at least good to have the choice?
 
 Rather than feeling used, would it be better if I care about your humanity and your bodily autonomy?
 
+Do you think it is fraud if I am not honest to you?
+
+
+
 The moral of this story: making an educated choice motivated by your own experiences and needs is better than the one you are forced to make in the dark.
 
 
