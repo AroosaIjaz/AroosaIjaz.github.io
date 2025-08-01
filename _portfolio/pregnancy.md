@@ -37,12 +37,13 @@ In a time where AI robot girlfriends are already available for men, we still don
 
 While talking to my mother about recent changes in her health, I realised that one of the problems she is dealing with comes directly from giving birth to a large number of children. She (or her doctor) never connected it to that. Her doctor resorted to the usual insulting behavior of invalidation. Told her to "avoid stress" and to seek psychological help instead. Something most of us women are very accustomed to when interacting with the medical field...or the wider society...
 
-Recent research on pregnancy and childbirth has shown that their effects are not only limited to the few months after giving birth. A large number effects are life-long and appear in various ways decades afterwards.
+[Intro_QML [PDF]](http://AroosaIjaz.github.io/files/Intro_qml_website.pdf)
+[Recent research](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23)00454-0/fulltext) on pregnancy and childbirth has shown that their effects are not only limited to the few months after giving birth. A large number effects are life-long and appear in various ways decades afterwards.
 
 And I dont see this being discussed anywhere; neither the popular media nor the doctor offices women go to get counselling and medical help.
 
 
 
-The power of knowledge and choice is seemingly kept out of reach for half the population on this planet...
+The power of knowledge and choice is seemingly kept out of reach of half the population on this planet...
 
 Seems like external elements have decided that it is better to make you have children in the dark...
