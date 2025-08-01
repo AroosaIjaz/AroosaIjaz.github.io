@@ -8,9 +8,9 @@ Date: 16-07-2025
 
 I have been looking into how the Canadian legal system is setup to deal with crimes of sexual violence.
 
-This eye-opening quest started when I met the author of this book at a social event recently: [The story of Jane Doe : a book about rape](https://www.torontopubliclibrary.ca/detail.jsp?Entt=RDM225940&R=225940)
+This eye-opening quest started when I met the author of this book at a social event recently: [The story of Jane Doe : a book about rape](https://www.torontopubliclibrary.ca/detail.jsp?Entt=RDM225940&R=225940). She became the first person in history to not only fight to get legal representaion in her own rape case but also to file a civil lawsuit against Toronto police for Charter breaches and negligence, which she successfully won after 11 years of legal battles ([case summary here](https://books.openedition.org/uop/544)). 
 
-Only 5-6% of all such crimes are reported to the police, while 50% of all Canadian women have experienced at least one incident of sexual or physical assault in their lifetime ([source](https://www150.statcan.gc.ca/n1/pub/85-002-x/2024001/article/00007-eng.htm)). 
+Only 5-6% of all such sexual assault crimes are reported to the police, while 50% of all Canadian women have experienced at least one incident of sexual or physical assault in their lifetime ([source](https://www150.statcan.gc.ca/n1/pub/85-002-x/2024001/article/00007-eng.htm)). Why?
 
 There are an insane number of problems and perspectives to look at in this topic, from child sexual abuse (their testimonies are more likely to be discredited by defense lawyers) to religious and ethnicity influences (Canadian native women are 4 times more likely to experience sexual assaul. South Asian muslim women are many folds less likely to report such crimes) to analyzing what prison time convictions do to "fix" this issue...
 
