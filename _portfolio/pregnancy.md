@@ -20,9 +20,9 @@ How would you feel 20 years down the line when you realize that the pill actuall
 
 Do you think you are more likely to take on this endeavour if you are kept in the dark about the long-term effects on your body and health? 
 
-Would you still like to know about the potential side-effects even you are confident that they wont effect you; that you are not going to be part of the "bad" statistics but maybe it will effect half of your friends if they took the pill I am offering?
-
 Do you think you might still take on this endeavour even if I were to educate you on the side-effects honestly and sincerely? Maybe you can prepare yourself better and take on the needed precautions if you know more? Maybe you want to check your family health history once again?
+
+Would you still like to know about the potential side-effects even you are confident that they wont effect you; that you are not going to be part of the "bad" statistics but maybe it will effect half of your friends if they took the pill I am offering?
 
 Do you think it is at least good to have the choice? 
 
@@ -42,9 +42,11 @@ In a time where AI robot girlfriends are already available for men, we still don
 While talking to my mother about recent changes in her health, I realised that one of the problems she is dealing with comes directly from giving birth to a large number of children. She (or her doctor) never connected it to that. Her doctor resorted to the usual insulting behavior of invalidation and shunning. Told her to "avoid stress" and to seek psychological help instead. Something most of us women are very accustomed to when interacting with the medical field...or the wider society...
 
 
-[Recent research](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23)00454-0/fulltext) on pregnancy and childbirth has shown that their effects are not only limited to the few months after giving birth. A large number effects are life-long and appear in various ways decades afterwards.
+[Recent research](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23)00454-0/fulltext) on pregnancy and childbirth has shown that their effects are not only limited to the few months after giving birth int he form of postpartum complications. A large number health effects are [life-long](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.122.062177) and appear in [various ways](https://www.physiology.org/publications/news/the-physiologist-magazine/2024/november/how-pregnancy-affects-a-lifetime-of-health?SSO=Y) decades afterwards. 
 
-I dont see this being discussed anywhere; neither the popular media nor the doctor offices most women go to get counselling and medical help. I dont even know where to begin for the women in Pakistan....
+I dont see this being discussed anywhere; neither the popular media nor the doctor offices most women go to get counselling. Evolution might have prefered fetus survivial at the expanse of maternal health but the choices human "civilisation" continues to make deserve to be analyzed. 
+
+I dont even know where to begin for the women in Pakistan...I will do another post on some of the horrors and practices around this that I know of. 
 
 
 
