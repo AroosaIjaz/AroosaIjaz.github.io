@@ -22,7 +22,7 @@ Do you think you are more likely to take on this endeavour if you are kept in th
 
 Do you think you might still take on this endeavour even if I were to educate you on the side-effects honestly and sincerely? Maybe you can prepare yourself better and take on the needed precautions if you know more? Maybe you want to check your family health history once again?
 
-Would you still like to know about the potential side-effects even you are confident that they wont effect you; that you are not going to be part of the "bad" statistics but maybe it will effect half of your friends if they took the pill I am offering?
+Would you still like to know about the potential side-effects even if you are confident that they wont effect you; that you are not going to be part of the "bad" statistics? but maybe it will effect half of your friends if they took the pill I am offering?
 
 Do you think it is at least good to have the choice? 
 
