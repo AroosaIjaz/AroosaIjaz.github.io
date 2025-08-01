@@ -27,5 +27,3 @@ How does any of this make sense to us a "civilised" society? Instead of ensuring
 
 I will continue to share my journey here as I dive deeper into this project.
 
-[MALPRACTICES IN THE CANADIAN LEGAL SYSTEM AROUND SEXUAL VIOLENCE [PDF]](http://AroosaIjaz.github.io/files/Session2_SMA.pdf)
-
