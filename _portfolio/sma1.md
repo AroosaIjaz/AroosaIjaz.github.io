@@ -17,7 +17,7 @@ There are an insane number of problems and perspectives to look at in this topic
 I share here the presentation (first of many) I made for a non-profit I am working for right now. I narrowed down to one very particular problem that I think can have broader impact and is likely solvable: trial setup and lack of legal representation for the victims. 
 [MALPRACTICES IN THE CANADIAN LEGAL SYSTEM AROUND SEXUAL VIOLENCE [PDF]](http://AroosaIjaz.github.io/files/Session2_SMA.pdf)
 
-Do you know that if you experience sexual violence and report it to the police, in case it goes to trial (not highly likely - see presentation), you do not get any legal representation? The accused person does. The case is setup as Crown vs the accused; an antiquated setup from centuries ago that continues to fail us to this day. You are only brought in as a witness to be questioned. You do not get to see or participate or input in the trial of your own assault in any way. 
+Do you know that if you experience sexual violence and report it to the police, in case it goes to trial (not highly likely - see presentation), you do not get any legal representation? The accused person does. The case is setup as "Crown vs the accused"; an antiquated setup from centuries ago that continues to fail us to this day. You are only brought in as a witness to be questioned. You do not get to see or participate or input in the trial of your own assault in any way. 
 
 This setup creates another problem: an environment where the defence attorneys for the accused get their time to shine. Their chance to "win" and prove their abilities; nothing is off the table for them in this "game". 
 
