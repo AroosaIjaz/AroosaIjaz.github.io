@@ -12,6 +12,7 @@ You will feel sick for some months but it is also so pertinant that you do this.
 It is very important for the familial and social fabric that you do this. It is for the greater good.
 In the long scheme of things, you will be thankful you went through it. It will give your life meaning.
 It is only a few months of inconvenience. It will be very rewarding in the end. For everyone, especially for you. 
+And you will get lots of attention and help if you do decide to take the pill...while you keep taking it.
 
 Will you take it? 
 
