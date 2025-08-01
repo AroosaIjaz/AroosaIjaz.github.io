@@ -44,7 +44,7 @@ While talking to my mother about recent changes in her health, I realised that o
 
 [Recent research](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23)00454-0/fulltext) on pregnancy and childbirth has shown that their effects are not only limited to the few months after giving birth in the form of postpartum complications. A large number of health effects are [life-long](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.122.062177) and can appear in [various ways](https://www.physiology.org/publications/news/the-physiologist-magazine/2024/november/how-pregnancy-affects-a-lifetime-of-health?SSO=Y) decades afterwards. 
 
-I dont see this being discussed anywhere; neither the popular media nor the doctor offices most women go to get counselling. Evolution might have prefered fetus survivial at the expanse of maternal health but the choices human "civilisation" continues to make deserve to be analyzed. 
+I dont see this being discussed anywhere; neither the popular media nor the doctor offices most women go to get counselling. Evolution might have prefered fetus survivial at the expense of maternal health but the choices human "civilisation" continues to make deserve to be analyzed. 
 
 I dont even know where to begin for the women in Pakistan...I will do another post on some of the horrors and practices around this that I know of. 
 
