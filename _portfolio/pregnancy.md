@@ -51,8 +51,9 @@ We are not new to exclusion and marginalisation as women....we have centuries to
 In a time where AI robot girlfriends are already available for men, we still dont know much about women's health. I suppose it is easier for men to do this than to unlearn or to let go of the convenience dehumanisation of women brings them. 
 
 
-While talking to my mother about recent changes in her health, I realised that one of the problems she is dealing with comes directly from giving birth to a large number of children. She (or her doctor) never connected it to that. Her doctor resorted to the usual insulting behavior of invalidation and shunning. Told her to "avoid stress" and to seek psychological help instead. Something most of us women are very accustomed to when interacting with the medical field...or the wider society...
+While talking to my mother about recent changes in her health, I realised that one of the problems she is dealing with comes directly from giving birth to a large number of children. She (or her doctor) never connected it to that. Her doctor resorted to the usual insulting behavior of invalidation and shunning. Told her to "avoid stress" and to seek psychological help instead...which in Pakistani cultural context translates to a doctor giving her professional analysis as "you are crazy"... 
 
+Most of us women are very accustomed to these treatments when interacting with the medical field...or the wider society...
 
 [Recent research](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23)00454-0/fulltext) on pregnancy and childbirth has shown that their effects are not only limited to the few months after giving birth in the form of postpartum complications. A large number of health effects are [life-long](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.122.062177) and can appear in [various ways](https://www.physiology.org/publications/news/the-physiologist-magazine/2024/november/how-pregnancy-affects-a-lifetime-of-health?SSO=Y) decades afterwards. 
 
