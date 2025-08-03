@@ -10,14 +10,17 @@ If I come to you and tell you that you need to take a pill.
 
 The reasons are multi-layered. 
 
-Yes you will feel very sick for some months but it is also so pertinant that you do this. 
+Yes, you will feel very sick for some months but it is also so pertinant that you do this. 
 
 It is very important for the familial and social fabric that you do this. It is for the greater good.
 
-In the long scheme of things, you will be thankful you went through it. It will give your life meaning.
+In the long scheme of things, you will be thankful you went through it. 
 
-It is only a few months of inconvenience. It will be very rewarding in the end. For everyone, especially for you. 
+It will give your life meaning.
 
+It is only a few months of inconvenience. 
+
+It will be very rewarding in the end. For everyone, especially for you. 
 
 Will you take it? 
 
