@@ -51,7 +51,7 @@ We are not new to exclusion and marginalisation as women....we have centuries to
 In a time where AI robot girlfriends are already available for men, we still dont know much about women's health. I suppose it is easier for men to do this than to unlearn or to let go of the convenience dehumanisation of women brings them. 
 
 
-While talking to my mother about recent changes in her health, I realised that one of the problems she is dealing with comes directly from giving birth to a large number of children. She (or her doctor) never connected it to that. Her doctor resorted to the usual insulting behavior of invalidation and shunning. Told her to "avoid stress" and to seek psychological help instead...which in Pakistani cultural context translates to a doctor giving her professional analysis as "you are crazy"... 
+While talking to my mother about recent changes in her health, I realised that one of the problems she is dealing with comes directly from giving birth to a large number of children. She (or her doctor) never connected it to that. Her doctor resorted to the usual insulting behavior of invalidation and shunning. Told her to "avoid stress" and to seek psychological help instead...which in Pakistani cultural context translates to a doctor giving her professional analysis as "you are crazy". What does a woman who was not even allowed to finish high school and has no socioeconomic power to do with this ruling about her "very very personal" problem that already took so much courage to talk about...? All she can do is to go home and suffer in silence and ever-increasing fear and self-doubt...
 
 Most of us women are very accustomed to these treatments when interacting with the medical field...or the wider society...
 
@@ -59,7 +59,7 @@ Most of us women are very accustomed to these treatments when interacting with t
 
 I dont see this being discussed anywhere; neither the popular media nor the doctor offices most women go to get counselling. Evolution might have prefered fetus survivial at the expense of maternal health but the choices human "civilisation" continues to make deserve to be analyzed. 
 
-I dont even know where to begin for the women in Pakistan...I will do another post on some of the horrors and practices around this that I know of. 
+I dont even know where to begin for the women in Pakistan...I will do another post on some of the horrors and practices around just childbirth that I know of. 
 
 
 
