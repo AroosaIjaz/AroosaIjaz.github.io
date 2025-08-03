@@ -26,11 +26,11 @@ Will you take it?
 
 How would you feel 20 years down the line when you realize that the pill actually had life-long effects that you were never made aware of? That there is no going back. 
 
-Do you think you are more likely to take on this endeavour if you are kept in the dark about the long-term effects on your body and health? 
+Do you think you are more likely to take the pill if you are kept in the dark about the long-term effects on your body and health? 
 
-Do you think you might still take on this endeavour even if I were to educate you on the side-effects honestly and sincerely? Maybe you can prepare yourself better and take on the needed precautions if you know more? Maybe you want to check your family health history once again?
+Do you think you might still take the pill even if I were to educate you on the side-effects honestly and sincerely? Maybe you can prepare yourself better and take on the needed precautions if you know more? Maybe you want to check your family health history once again?
 
-Would you still like to know about the potential side-effects even if you are confident that they wont effect you; that you are not going to be part of the "bad" statistics? but maybe it will effect half of your friends if they took the pill I am offering?
+Would you still like to know about the potential side-effects even if you are confident that they wont effect you; that you are not going to be part of the "bad" statistics? but maybe it will effect half of your friends if they took the pill I am offering? you will be okay so you dont have to care...
 
 Do you think it is at least good to have the choice? 
 
@@ -40,7 +40,7 @@ Do you think it is fraud if I am not honest to you?
 
 
 
-The moral of this story: making an educated choice motivated by your own experiences and needs is better than the one you are forced to make in the dark.
+**The moral of this story**: making an educated choice motivated by your own experiences and needs is better than the one you are forced to make in the dark.
 
 
 This is the story of every woman who has or wants to have children...
