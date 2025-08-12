@@ -14,7 +14,7 @@ By estimate, only 5-6% of all sexual assault crimes are reported to the police, 
 
 What is the reason behind these disturbing statistics? Why is the Canadian justice system failing most of its citizens?
 
-There are an insane number of problems and perspectives to look at in this topic, from child sexual abuse (it is less likely to be reported and their testimonies are more likely to be discredited by defence lawyers) to religious and ethnicity influences (Canadian native women are 4 times more likely to experience sexual assault. South Asian muslim women are many folds less likely to report such crimes) to analyzing what prison time convictions do to "fix" this issue...
+There are an insane number of problems and perspectives to look at in this topic, from child sexual abuse (it is less likely to be reported and their testimonies are more likely to be discredited by defence lawyers) to religious and ethnicity influences (Canadian native women are 4 times more likely to experience sexual assault. South Asian muslim women who are equated to "family honor" are many folds less likely to report such crimes) to analyzing what prison time convictions do to really "fix" this issue...
 
 I share here the 10min-presentation (first of many) I made for a non-profit I am working for right now. I narrowed down to one very particular problem that I think can have broader impact and most importantly is **solvable**, which is the trial setup and lack of legal representation for the victims:
 [MALPRACTICES IN THE CANADIAN LEGAL SYSTEM AROUND SEXUAL VIOLENCE [PDF]](http://AroosaIjaz.github.io/files/Session2_SMA.pdf)
