@@ -28,7 +28,7 @@ Let us look at an example: let us say you report one such crime but do not want 
   
 - [16yo detained in the same cell as her rapist](https://www.cbc.ca/news/canada/edmonton/edmonton-victims-sexual-assault-custody-alberta-1.4226601)
   
-- [after being stabbed and raped by a serial rapist with 50 years of violent predatory history, jailed and schackled for five days](https://www.cbc.ca/news/canada/edmonton/sex-assault-victim-jailed-ganley-1.4146682) -- [Case details](https://www.cbc.ca/news/canada/edmonton/sex-assault-victim-jailed-judge-edmonton-1.4140533) -- [crown attorneys response](https://www.cbc.ca/news/canada/edmonton/lance-blanchard-edmonton-angela-cardinal-1.4152929) 
+- [after being stabbed and raped by a serial rapist with 50 years of violent predatory history, jailed and schackled for five days](https://www.cbc.ca/news/canada/edmonton/sex-assault-victim-jailed-ganley-1.4146682) --- [case details](https://www.cbc.ca/news/canada/edmonton/sex-assault-victim-jailed-judge-edmonton-1.4140533) --- [crown attorneys response](https://www.cbc.ca/news/canada/edmonton/lance-blanchard-edmonton-angela-cardinal-1.4152929) 
 
 This is just one example of the ways the current trial setup fails. How does any of this make sense to us a "civilised" society? Instead of ensuring justice, I think this setup is inherently illogical, discriminatory and unfair. This is a huge factor in why so many victims of this particular crime are hesitant to go to the police. This is also evident in the very stark difference in [crime statistics for sexual violence vs physical violence](https://www150.statcan.gc.ca/n1/pub/85-002-x/2017001/article/54870-eng.htm).   
 
