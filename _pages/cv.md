@@ -79,7 +79,7 @@ Miscellaneous Interests
 =======================
 * Sports: Badminton, Tennis, Squash, Ultimate Frisbee, Volleyball, Table Tennis, Football
   
-* Music: Heavy, death, progressive, and Avant-Garde metal. Some of my favorite bands: Sepultura, Gojira, Opeth, Tool, Lamb of God, Symphony X, Dream Theater, Acrassicauda, Death, Blind Guardian, Diablo Swing Orchestra, Porcupine Tree, Megadeth
+* Music: Heavy, death, progressive, and Avant-Garde metal. Some of my favorite bands: Sepultura, Gojira, Opeth, Tool, Lamb of God, Symphony X, Dream Theater, Acrassicauda, Death, Blind Guardian, Diablo Swing Orchestra, Porcupine Tree, Megadeth, Archspire, Negura Bunget
    
 * Reading: Classics and fiction like Fyodor Dostoevsky, Franz Kafka, Thomas Hardy, Albert Camus, Bohumil Hrabal, JRR Tolkien, Joseph Conrad, Vsevolod Garshin
   
