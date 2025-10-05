@@ -50,7 +50,7 @@ Can we co-exist online? Roughly 51% of the women worldwide have experienced some
 
 
 
-Most AI researchers I meet on a daily basis are men. If more women were in the room, I think a lot of the AI research progress and currently-available AI products would have looked very different. For example, if men were thinking for both of us, generative AI products which are now being used to create fake porn of female colleagues/class fellows would have gone through more scrutiny. On the other hand, AI robot girlfriends where men can custom-select the size, shape and color of each body part of this caricature of the female body are gaining popularity. 
+Most AI researchers I meet on a daily basis are men. If more women were in the room, I think a lot of the AI research progress and currently-available AI products would have looked very different. For example, if men were thinking for both of us, generative AI products which are now being used to create fake porn of female colleagues/class fellows would have gone through more scrutiny. On the other hand, AI robot girlfriends where men can custom-select the size, shape and color of each body part of this dystopian caricature of the female body are gaining popularity. 
 
 
 
