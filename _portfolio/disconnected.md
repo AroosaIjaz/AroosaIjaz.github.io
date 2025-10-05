@@ -32,7 +32,7 @@ Plenty of men and women are friends. Plenty of heterosexual couples continue to 
 This underlying disconnect seems built into the very fabric of our current reality. Not just human history. Have you noticed?
 
 
-Let us look at some examples of this cost-benefit analysis.
+Let us look at some examples of this plays out.
 
 
 Can we co-share reponsibilities? Although women are working and earning more than ever before, men continue to do significantly less care-giving and housework and spend more time on leisure activities, even in families where women are the main bread winners! [US-based 2023 report](https://www.pewresearch.org/social-trends/2023/04/13/in-a-growing-share-of-u-s-marriages-husbands-and-wives-earn-about-the-same/). Moreover, married men reportedly get higher earnings compared to married women, unmarried men and unmarried women! [US-based 2019 report](https://www.stlouisfed.org/publications/regional-economist/second-quarter-2019/earnings-gap-marital-status-race-gender).
