@@ -25,7 +25,7 @@ Or maybe it is a mix of all these factors?
 Why does it matter? 
 
 
-Plenty of men and women are friends. Plenty of heterosexual couples continue to find some way of living together and making families, whether they can find any actual companionship and humanity in each other or not. So, why would this bother anyone?
+Plenty of men and women are friends. Plenty of heterosexual couples continue to find some way of living together and making families, whether they can find any actual companionship and humanity in each other or not. So, why bother?
 
 
 
