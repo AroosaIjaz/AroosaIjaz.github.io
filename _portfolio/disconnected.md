@@ -10,43 +10,41 @@ Can men and women ever really connect?
 
 We live very different lives and experiences. Can men understand ours? Do they even really want to?
 
-Is this about empathy (or lack thereof)? 
+Is this about empathy (or lack thereof)? It seems that even men with empathy do not seem to be able to make themselves uncomfortable long enough to want to listen to our voices or care enough to hold other men accountable.
 
-Is this built into the gender roles? 
+Is this built too deeply into the gender roles? 
 
 Is this biological? just plain human nature?
 
-Is this about the power imbalance? The ones in power have to either keep their eyes closed to the suffering or actively participate to mantain the status quo, right? It seems that even men with empathy do not seem to be able to make themselves uncomfortable long enough to want to listen to our voices or care enough to hold other men accountable. The ones in power have to invalidate you to keep their previlige, right?
+Is this about the existing power imbalance? The ones in power have to either keep their eyes closed to the suffering or actively participate to mantain the status quo, right? Are there any other options? Just by cost-benefit analysis, they have to invalidate you to keep their previlige, right?
 
 Or maybe it is a mix of all these factors? 
-
-
 
 
 
 Why does it matter? 
 
 
-
-
-Plenty of men and women are friends. Plenty of heterosexual couples continue to find some way of living together and making families, whether they can find any actual companionship in each other or not. So, why would this bother anyone?
+Plenty of men and women are friends. Plenty of heterosexual couples continue to find some way of living together and making families, whether they can find any actual companionship and humanity in each other or not. So, why would this bother anyone?
 
 
 
 This underlying disconnect seems built into the very fabric of our current reality. Not just human history. Have you noticed?
 
 
+Let us look at some examples of this cost-benefit analysis.
 
 
-
-Can we co-share reponsibilities? Although women are working and earning more than ever before, men continue to do significantly less care-giving and housework and spend more time on leisure activities, even in families where women are the main bread winners [US-based 2023 report](https://www.pewresearch.org/social-trends/2023/04/13/in-a-growing-share-of-u-s-marriages-husbands-and-wives-earn-about-the-same/)! Moreover, married men reportedly get higher earnings compared to married women, unmarried men and unmarried women [US-based 2019 report](https://www.stlouisfed.org/publications/regional-economist/second-quarter-2019/earnings-gap-marital-status-race-gender)!
+Can we co-share reponsibilities? Although women are working and earning more than ever before, men continue to do significantly less care-giving and housework and spend more time on leisure activities, even in families where women are the main bread winners! [US-based 2023 report](https://www.pewresearch.org/social-trends/2023/04/13/in-a-growing-share-of-u-s-marriages-husbands-and-wives-earn-about-the-same/). Moreover, married men reportedly get higher earnings compared to married women, unmarried men and unmarried women! [US-based 2019 report](https://www.stlouisfed.org/publications/regional-economist/second-quarter-2019/earnings-gap-marital-status-race-gender).
   
 
-Can girls have normal healthy childhoods? 650 million women alive today (one in five women) experienced sexual violence of some form BEFORE they turned 18 [Unicef 2023 report](https://www.reuters.com/world/one-eight-girls-women-raped-or-sexually-assaulted-before-age-18-unicef-says-2024-10-10/)! And one in three women alive today have experienced some form of physical and/or sexual violence at least once in their lives. 
+Can girls have normal healthy childhoods? 650 million women alive today (one in five women) experienced sexual violence of some form BEFORE they turned 18! [Unicef 2023 report](https://www.reuters.com/world/one-eight-girls-women-raped-or-sexually-assaulted-before-age-18-unicef-says-2024-10-10/). And one in three women alive today have experienced some form of physical and/or sexual violence at least once in their lives. 
 
-Can we co-exist at home? 51,100 out of 85000 women that were intentionally killed by men in 2023 were killed by their male partners. That is 140 women a day! 1 woman every 10 minutes [UN 2023 report](https://www.unwomen.org/en/digital-library/publications/2024/11/femicides-in-2023-global-estimates-of-intimate-partner-family-member-femicides)! 
 
-Can we co-exist online? Roughly 51% of the women worldwide have experienced some form of online harassment and abuse [UN Women 2024 report](https://knowledge.unwomen.org/en/articles/facts-and-figures/facts-and-figures-ending-violence-against-women)!
+Can we co-exist at home? 51,100 out of 85000 women that were intentionally killed by men in 2023 were killed by their male partners. That is 140 women a day! 1 woman every 10 minutes! [UN 2023 report](https://www.unwomen.org/en/digital-library/publications/2024/11/femicides-in-2023-global-estimates-of-intimate-partner-family-member-femicides).
+
+
+Can we co-exist online? Roughly 51% of the women worldwide have experienced some form of online harassment and abuse! [UN Women 2024 report](https://knowledge.unwomen.org/en/articles/facts-and-figures/facts-and-figures-ending-violence-against-women).
 
 
 
@@ -58,7 +56,7 @@ Women's health continues to be an afterthought in the medical community. If men 
 
 
 
-If men were thinking for both of us, sexual assault and rape would not be effectively legal worldwide. For example, only 5% of these crimes are annually reported in Canada and only a fraction of these reported crimes are persecuted. [See my post on this for references](https://aroosaijaz.github.io/portfolio/sma1/). 
+If men were thinking for both of us, sexual assault and rape would not be effectively legal worldwide. For example, only 5% of these crimes are annually reported in Canada and only a fraction of these reported crimes are persecuted! [See this post for references](https://aroosaijaz.github.io/portfolio/sma1/). 
 
 
 If men were thinking for both of us, men in so many cultures and religions around the world would not be okay to treat women as their honor, property, personal toy and as some useful life-accessory. 
