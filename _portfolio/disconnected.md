@@ -8,7 +8,7 @@ Date: 01-10-2025
 
 Can men and women ever really connect?
 
-We live very different lives and experiences. Can men understand ours? Do they even really want to?
+We live very different lives and experiences. Can men understand ours? Do they think about ours? Do they even really want to? 
 
 Is this about empathy (or lack thereof)? It seems that even men with empathy do not seem to be able to make themselves uncomfortable long enough to want to listen to our voices or care enough to hold other men accountable.
 
