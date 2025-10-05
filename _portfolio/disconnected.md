@@ -16,7 +16,7 @@ Is this built too deeply into the gender roles?
 
 Is this biological? just plain human nature?
 
-Is this about the existing power imbalance? The ones in power have to either keep their eyes closed to the suffering or actively participate to mantain the status quo, right? Are there any other options? Just by cost-benefit analysis, they have to invalidate you to keep their previlige, right?
+Is this about the existing power imbalance? The ones in power usually tend to either keep their eyes closed to the suffering or actively participate to mantain the status quo, right? Are there any other options? Just by cost-benefit analysis, they have to invalidate and disconnect from the "other" to keep their previlige, right?
 
 Or maybe it is a mix of all these factors? 
 
