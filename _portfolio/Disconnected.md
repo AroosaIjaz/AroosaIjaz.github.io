@@ -58,13 +58,13 @@ Women's health continues to be an afterthought in the medical community. If men 
 
 
 
-If men were thinking for both of us, sexual assault and rape would not be effectively legal worldwide. For example, only 5% of these crimes are annually reported in Canada and only a fraction of these reported crimes are persecuted. 
+If men were thinking for both of us, sexual assault and rape would not be effectively legal worldwide. For example, only 5% of these crimes are annually reported in Canada and only a fraction of these reported crimes are persecuted. [See my post on this for references](https://aroosaijaz.github.io/portfolio/sma1/). 
 
 
-If men were thinking for both of us, men in so many cultures and religions around the world would not treat women as their honor, property and a supoortive life-acessory. 
+If men were thinking for both of us, men in so many cultures and religions around the world would not be okay to treat women as their honor, property and a useful life-accessory. 
 
 
-We can go on and on....
+from how showing violence against women is so normal in movies...to how even the idea of an independent woman is defined through the lens of men....the examples go on and on.... 
 
 
-So...if men only gain in every way by keeping the power imbalance, would they ever fully join the women in fixing it?
+So...if men only gain in every way by keeping the power imbalance, can they ever sincerely join the women in fixing it?
