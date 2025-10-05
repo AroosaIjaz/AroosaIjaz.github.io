@@ -61,7 +61,7 @@ If men were thinking for both of us, would sexual assault and rape be effectivel
 If men were thinking for both of us, would men in so many cultures and religions around the world be okay to treat women as their honor, property, personal toy and as some useful life-accessory?
 
 
-From how showing violence against women is so normal in movies...to how even the idea of an independent woman is defined through the lens of men....the examples of how this disconnect shapes our world go on and on.... 
+From how showing violence against women is so normal in movies...to how even the idea of an "independent woman" is defined through the lens of men....the examples of how this disconnect shapes our world go on and on.... 
 
 
 So...if men only gain in every way by keeping the power imbalance, can they ever sincerely join the women in fixing it?
