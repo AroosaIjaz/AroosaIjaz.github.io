@@ -38,13 +38,13 @@ Let us look at some examples of how this plays out.
 If men were thinking for both of us, would we share life reponsibilities? Although women are working and earning more than ever before, men continue to do significantly less care-giving and household work and spend more time on leisure activities, even in families where women are the main bread winners! [US-based 2023 report](https://www.pewresearch.org/social-trends/2023/04/13/in-a-growing-share-of-u-s-marriages-husbands-and-wives-earn-about-the-same/). Moreover, married men reportedly get higher earnings compared to married women, unmarried men and unmarried women! [US-based 2019 report](https://www.stlouisfed.org/publications/regional-economist/second-quarter-2019/earnings-gap-marital-status-race-gender).
   
 
-If men were thinking for both of us, could girls have normal healthy childhoods? 650 million women alive today (one in five women) experienced sexual violence of some form BEFORE they turned 18! And 736 million women alive today (one in three women) have experienced some form of physical and/or sexual violence at least once in their lives! [Unicef 2023 report](https://www.reuters.com/world/one-eight-girls-women-raped-or-sexually-assaulted-before-age-18-unicef-says-2024-10-10/).   
+If men were thinking for both of us, would girls have normal healthy childhoods? 650 million women alive today (one in five women) experienced sexual violence of some form BEFORE they turned 18! And 736 million women alive today (one in three women) have experienced some form of physical and/or sexual violence at least once in their lives! [Unicef 2023 report](https://www.reuters.com/world/one-eight-girls-women-raped-or-sexually-assaulted-before-age-18-unicef-says-2024-10-10/).   
 
 
-If men were thinking for both of us, could we co-exist at home? 51,100 out of 85000 women that were intentionally killed by men in 2023 were killed by their male partners. That is 140 women a day! 1 woman every 10 minutes! [UN 2023 report](https://www.unwomen.org/en/digital-library/publications/2024/11/femicides-in-2023-global-estimates-of-intimate-partner-family-member-femicides).
+If men were thinking for both of us, would we co-exist at home? 51,100 out of 85000 women that were intentionally killed by men in 2023 were killed by their male partners. That is 140 women a day! 1 woman every 10 minutes! [UN 2023 report](https://www.unwomen.org/en/digital-library/publications/2024/11/femicides-in-2023-global-estimates-of-intimate-partner-family-member-femicides).
 
 
-If men were thinking for both of us, could we co-exist online? Roughly 51% of the women worldwide have experienced some form of online harassment and abuse! [UN Women 2024 report](https://knowledge.unwomen.org/en/articles/facts-and-figures/facts-and-figures-ending-violence-against-women).
+If men were thinking for both of us, would we co-exist online? Roughly 51% of the women worldwide have experienced some form of online harassment and abuse! [UN Women 2024 report](https://knowledge.unwomen.org/en/articles/facts-and-figures/facts-and-figures-ending-violence-against-women).
 
 
 
