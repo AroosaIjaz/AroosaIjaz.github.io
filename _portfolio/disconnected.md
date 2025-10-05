@@ -55,7 +55,7 @@ If men were thinking for both of us, would there be better understanding of Wome
 
 
 
-If men were thinking for both of us, would sexual assault and rape be effectively legal worldwide? For example, every year only 5% of these crimes are reported to the police in Canada and only a fraction of these reported crimes are persecuted! [See this post for references](https://aroosaijaz.github.io/portfolio/sma1/). 
+If men were thinking for both of us, would sexual assault and rape be effectively legal worldwide? For example, by estimate only 5-6% of these crimes are reported to the police in Canada and only a fraction of these reported crimes are persecuted! [See this post for references](https://aroosaijaz.github.io/portfolio/sma1/). 
 
 
 If men were thinking for both of us, would men in so many cultures and religions around the world be okay to treat women as their honor, property, personal toy and as some useful life-accessory?
