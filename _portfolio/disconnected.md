@@ -49,6 +49,12 @@ If men were thinking for both of us, would we co-exist at home? 51,100 out of 85
 If men were thinking for both of us, would men in so many cultures and religions around the world be okay to treat women as their honor and property and reducing them down to their personal toy and life-accessory?
 
 
+Are these all not symptoms of a disconnect? Does it all not take an overwhleming disregard of someone's humanity...? 
+
+
+What does it take for a man to look past the pain his wife or mother or sister or female friend could be in...? What does it take for a man to want to control what "their woman" can do or say or wear or live...? What does it take for a man to decide to hit a woman...? What does it take for a man to rape a child and destroy their sense of self and safety forever only to satisfy his own very fleeting and momentary sense of power and/or pleasure...? 
+
+
 From how showing violence against women is so normal in movies...to how even the idea of an "independent woman" is defined through the lens of men....the examples of how this disconnect shapes our world go on and on.... 
 
 
