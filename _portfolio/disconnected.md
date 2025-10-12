@@ -30,7 +30,7 @@ If men were thinking for both of us, would we share life and its reponsibilities
 If men were thinking for both of us, would the technological advancement look different? For example, generative AI products which are now being used to create fake pornographic content of female colleagues/friends/celebrities would have gone through more scrutiny. Or AI robot girlfriends where men can custom-select the size, shape and color of each body part of this dystopian caricature of the female body would not be gaining popularity. Most AI researchers I meet on a daily basis are men. If more women were in the room, I think a lot of the AI research progress and currently-available AI products would have looked very different.
 
 
-If men were thinking for both of us, would there be better understanding of women's health? Would the policies and debates around it be politicized? Women's health continues to be an afterthought in the medical community. For example, it may seem that everything around pregnancy gets a lot of attention and services in most countries. However, most mothers, after they give birth, report extremely grim experiences regarding the care given to them by both their medical doctors and their male partners.   
+If men were thinking for both of us, would there be better understanding of women's health? Would the policies and debates around it be politicized? Women's health continues to be an afterthought in the medical community. For example, it may seem that everything around pregnancy gets a lot of attention and services in most countries. However, these services are mostly focused on child birth and child health. Most mothers, after they give birth, report extremely grim experiences regarding the care given to them by both their medical doctors and their male partners.       
 
 
 If men were thinking for both of us, would we co-exist online? Roughly 51% of the women worldwide have experienced some form of online harassment and abuse! [UN Women 2024 report](https://knowledge.unwomen.org/en/articles/facts-and-figures/facts-and-figures-ending-violence-against-women).
@@ -54,11 +54,15 @@ From how showing violence against women is so normal in movies...to how even the
 
 Why is this so?
 
-Is this about empathy (or lack thereof)? It seems that even men with empathy do not seem to be able to make themselves uncomfortable long enough to want to listen to our voices or care enough to hold other men accountable.
 
 Is this built too deeply into the gender roles by now? 
 
+
 Is this biological; just plain human nature?
+
+
+Is this about empathy (or lack thereof)? It seems that even men with empathy do not seem to be able to make themselves uncomfortable long enough to want to listen to our voices or care enough to hold other men accountable.
+
 
 Is this about the existing power imbalance? The ones in power can either keep their eyes closed to the suffering or they can actively participate to mantain the status quo, right? Are there any other options? Just by cost-benefit analysis, they have to invalidate and disconnect from the "other" in some way to keep their previlige, right? Even if one of them can pacify their conscience and believe they are not "the bad one", they silently but actively rely on the rest of their group to not only keep the benefits rolling but to even mantain their personal sense of "goodness". 
 
