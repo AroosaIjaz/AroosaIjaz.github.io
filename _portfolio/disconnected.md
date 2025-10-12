@@ -36,7 +36,7 @@ If men were thinking for both of us, would there be better understanding of wome
 If men were thinking for both of us, would we co-exist online? Roughly 51% of the women worldwide have experienced some form of online harassment and abuse! [UN Women 2024 report](https://knowledge.unwomen.org/en/articles/facts-and-figures/facts-and-figures-ending-violence-against-women).
 
 
-If men were thinking for both of us, would girls have normal healthy childhoods? 650 million women alive today (one in five women) experienced sexual violence of some form BEFORE they turned 18! And 736 million women alive today (one in three women) have experienced some form of physical and/or sexual violence at least once in their lives! [Unicef 2023 report](https://www.reuters.com/world/one-eight-girls-women-raped-or-sexually-assaulted-before-age-18-unicef-says-2024-10-10/).
+If men were thinking for both of us, would girls have normal healthy childhoods; where fear does not replace wonder? 650 million women alive today (one in five women) experienced sexual violence of some form BEFORE they turned 18! And 736 million women alive today (one in three women) have experienced some form of physical and/or sexual violence at least once in their lives! [Unicef 2023 report](https://www.reuters.com/world/one-eight-girls-women-raped-or-sexually-assaulted-before-age-18-unicef-says-2024-10-10/).
 
 
 If men were thinking for both of us, would sexual assault and rape be effectively legal worldwide? For example, by estimate only 5-6% of these crimes are reported to the police in Canada and only a fraction of these reported crimes are persecuted! [See this post for references](https://aroosaijaz.github.io/portfolio/sma1/). 
