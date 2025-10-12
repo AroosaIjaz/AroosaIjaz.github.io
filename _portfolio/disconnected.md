@@ -55,7 +55,7 @@ Are these all not symptoms of a disconnect? Does it all not take an overwhleming
 What does it take for a man to look past the pain his wife or mother or sister or female friend could be in...? What does it take for a man to want to control what "their woman" can do or say or wear...? What does it take for a man to decide to hit a woman...? What does it take for a man to rape a child and destroy their sense of self and safety forever only to satisfy his own very fleeting and momentary sense of power and/or pleasure...? 
 
 
-From how showing violence against women is so normal in movies...to how even the idea of an "independent woman" is defined through the lens of men....the examples of how this disconnect shapes our world go on and on.... 
+From how showing violence against women is so normal in media...to how even the idea of an "independent woman" is defined through the lens of men....the examples of how this disconnect shapes our world go on and on.... 
 
 
 Why is this so?
