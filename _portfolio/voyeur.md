@@ -40,5 +40,6 @@ One might simplify this by saying: men act and women appear. Men look at women. 
 
 **Can a woman ever really exist freely...?** 
 
-
 **Is that even possible at some future point for the human civilization...?**
+
+**But what even is a woman? if not defined by all this....can we even grasp that question?**
