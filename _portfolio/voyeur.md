@@ -16,7 +16,7 @@ Since I was 6 or 7 years old, a constant part of my stream of thought was to be 
 EVERY MOMENT IS CONDITIONED AND EXAMINED FROM THE MOMENT YOU ARE BORN: your modesty should hold while you are sweeping the floor in the house OR when you are climbing into your school bus OR while you are answering a question on the black board in a classroom OR when you drop something and have to bend down to pick it up OR while you are sleeping....there is no break. you are always on display and hence always up for judgement and discipline. 
 
 
-And it is not just the dressing part...are you talking too loud? are you sitting "in a bad way"? are you laughing too hard or too loud? are you walking too "provocatively"? are your foot steps making sound on the ground? are you crying "too much"? 
+And it is not just the dressing part...are you talking too loud? are you sitting "in a bad way"? are you laughing too hard or too loud? are you walking too "provocatively"? are your foot steps making sound on the ground? are you crying "too much"? why is your hair open?  
 
 
 **As a woman, you live through men's lens...on men's conditions...to serve men...in a man's world.**
