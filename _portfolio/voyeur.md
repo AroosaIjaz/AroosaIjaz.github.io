@@ -19,7 +19,7 @@ EVERY MOMENT IS CONDITIONED AND EXAMINED FROM THE MOMENT YOU ARE BORN: Even for 
 And it is not just the dressing part...are you talking too loud? are you sitting "in a bad way"? are you laughing too hard or too loud? are you walking too "provocatively"? are your foot steps making sound on the ground? are you crying "too much"? are you looking directly into someone's eyes? why is your hair open?  
 
 
-Since you exist, you are always up to tempt any man around you. So every moment of your life can only involve either teaching you to be "modest" or protecting you from "bad men"... 
+Since you exist, you are always up to tempt any man around you, whether he is family or not. So every moment of your life can only involve either teaching you to be "modest" or protecting you from "bad men"... 
 
 
 **As a woman, you live through men's lens...on men's conditions...to serve men...in a man's world.**
