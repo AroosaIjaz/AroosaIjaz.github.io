@@ -13,10 +13,12 @@ Our daily clothing is a three part dress made of a pajama (preferably loose fitt
 Since I was 6 or 7 years old, a constant part of my stream of thought was to be aware of myself and to wrap the shawl around myself to further cover any hints of the shape of my body...
 
 
-EVERY MOMENT IS CONDITIONED AND EXAMINED FROM THE MOMENT YOU ARE BORN: your modesty should hold while you are sweeping the floor in the house OR when you are climbing into your school bus OR while you are answering a question on the black board in a classroom OR when you drop something and have to bend down to pick it up OR while you are sleeping....there is no break. you are always on display and hence always up for judgement and discipline. 
+EVERY MOMENT IS CONDITIONED AND EXAMINED FROM THE MOMENT YOU ARE BORN: Even for young girls, modesty should hold while you are sweeping the floor in the house OR when you are climbing into your school bus OR while you are answering a question on the black board in a classroom OR when you drop something and have to bend down to pick it up OR while you are sleeping....there is no break. you are always on display and hence always up for judgement and discipline.    
 
 
 And it is not just the dressing part...are you talking too loud? are you sitting "in a bad way"? are you laughing too hard or too loud? are you walking too "provocatively"? are your foot steps making sound on the ground? are you crying "too much"? why is your hair open?  
+
+Since you exist, you are always up to tempt any man around you. So every moment of your life can only involve either teaching you to be "modest" or protecting you from "bad men"... 
 
 
 **As a woman, you live through men's lens...on men's conditions...to serve men...in a man's world.**
