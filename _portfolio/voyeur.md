@@ -6,9 +6,9 @@ collection: portfolio
 
 Date: 27-09-2025
 
-Growing up in Pakistan, it was drilled into my every waking moment that I have to be continously concious of my "modesty". Our daily clothing is a three part dress made of a pajama (preferably loose fitting), a long shirt (preferably loose fitting, with full sleeves and down to knees) and a large shawl on top. Every dress is made that way. 
+Growing up in Pakistan, it was drilled into my every waking moment that I have to be continously concious of my "modesty". 
 
-While the rules and strictness can vary a bit from family to family, the first and mostly the biggest characterising judgement is how well a girl could hide herself within her dress. Since I was 6 or 7 years old, a constant part of my stream of thought was to be aware of myself and to wrap the shawl around myself to further cover any hints of the shape of my body...
+Our daily clothing is a three part dress made of a pajama (preferably loose fitting), a long shirt (preferably loose fitting, with full sleeves and down to knees) and a large shawl on top. Every dress is made that way, more or less. While the rules and strictness can vary a bit from family to family, the first and mostly the biggest characterising judgement is how well a girl could hide herself within her dress. Since I was 6 or 7 years old, a constant part of my stream of thought was to be aware of myself and to wrap the shawl around myself to further cover any hints of the shape of my body...
 
 
 EVERY MOMENT IS CONDITIONED AND EXAMINED FROM THE MOMENT YOU ARE BORN: your modesty should hold while you are sweeping the floor in the house OR when you are climbing into your school bus OR while you are answering a question on the black board in a classroom OR when you drop something and have to bend down to pick it up OR while you are sleeping....there is no break. you are always on display and hence always up for judgement and discipline. 
