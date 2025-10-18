@@ -13,8 +13,7 @@ Our daily clothing is a three part dress made of a pajama (preferably loose fitt
 Since I was 6 or 7 years old, a constant part of my stream of thought was to be aware of myself and to wrap the shawl around myself to further cover any hints of the shape of my body...
 
 
-EVERY MOMENT IS CONDITIONED AND EXAMINED: Even for children and young girls, modesty should hold while you are sweeping the floor in the house OR when you are climbing into your school bus OR while you are answering a question on the blackboard in a classroom OR when you drop something and have to bend down to pick it up OR while you are playing with your siblings OR while you are sleeping....there is no break. you are always on display and hence always up for judgement and discipline. And it is not just the dressing part...are you talking too loud? are you sitting "in a bad way"? are you laughing too hard or too loud?  are you crying "too much"? are you looking directly into someone's eyes? why is your hair open? are you walking too "provocatively"? are your foot steps making sound on the ground?  
-
+EVERY MOMENT IS CONDITIONED AND EXAMINED: Even for children and young girls, modesty should hold while you are sweeping the floor in the house OR when you are climbing into your school bus OR when you drop something and have to bend down to pick it up OR while you are playing with your siblings OR while you are sleeping....there is no break. you are always on display and hence always up for judgement and discipline. And it is not just the dressing part...are you talking too loud? are you sitting "in a bad way"? are you laughing too hard or too loud?  are you crying "too much"? are you looking directly into someone's eyes? why is your hair open? are you walking too "provocatively"? are your foot steps making sound on the ground?  
 
 Since you exist as a woman, something needs to be decided about you. Since you exist, you are up for "grabs" to be owned by someone. Since you exist, regardless of your age or intention or knowledge, you are the object that can tempt any man around you, whether he is family or stranger. Since you exist, you have to be "tamed" for one group of men and "protected" from the other gorup of men. 
 
@@ -29,7 +28,12 @@ So every moment of your life can only involve either goading you to be "good wom
 ― **Margaret Atwood, The Robber Bride** 
 
 
-I still struggle with this on a daily basis. I am still learning how not to be my own voyeur...
+I am still learning how not to be my own voyeur...Even after years of trying, I still struggle with this on a daily basis. 
+
+When I first moved abroad for my masters as a 23 years old and started to wear western clothes to fit in, I was constantly uncomfortable. I was hesitant to go out, to walk to the board to answer questions in my lectures or to work on my experiments in the labs. Even with long shirts, I was constantly yanking at them to cover more of my behind and my legs. I was constantly looking around to see if anyone is looking at me. These thoughts were always there when I was studying in Pakistan too but I felt that the western clothes had made me more "visible" and did not give me all the tools that I had before with Pakistani clothes to hide myself more. And all this was just on univeristy campuses which were safe in my mind...being out in the city was a whole other game. It was shocking to realize over time just how much of my thought and living revolved around this, from small and mundane to big and scary things.
+
+
+All women around me were brought up to be invisible to the outside world and to be "pleasing" and caregiving in the home. And this seems quite universal to various degrees in differnt societies. Even in the "western" media, you routinely see discourse on how women are not dressing "appropriately" anymore which is "desensitizing" men and not "leaving anything up to the imagination".  
 
 
 “A woman must continually watch herself. She is almost continually accompanied by her own image of herself. Whilst she is walking across a room or whilst she is weeping at the death of her father, she can scarcely avoid envisaging herself walking or weeping. From earliest childhood she has been taught and persuaded to survey herself continually. And so she comes to consider the surveyor and the surveyed within her as the two constituent yet always distinct elements of her identity as a woman. She has to survey everything she is and everything she does because how she appears to men, is of crucial importance for what is normally thought of as the success of her life. Her own sense of being in herself is supplanted by a sense of being appreciated as herself by another....
