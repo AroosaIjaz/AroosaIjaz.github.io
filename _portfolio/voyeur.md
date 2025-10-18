@@ -25,7 +25,7 @@ So for a society, every moment can involve either goading you to be "good women"
 **It seems that as a woman, you live through men's lens, on men's conditions, to serve men, in a man's world.**
 
 
-“Male fantasies, male fantasies, is everything run by male fantasies? Up on a pedestal or down on your knees, it's all a male fantasy: that you're strong enough to take what they dish out, or else too weak to do anything about it. Even pretending you aren't catering to male fantasies is a male fantasy: pretending you're unseen, pretending you have a life of your own, that you can wash your feet and comb your hair unconscious of the ever-present watcher peering through the keyhole, peering through the keyhole in your own head, if nowhere else. You are a woman with a man inside watching a woman. You are your own voyeur.”
+>“Male fantasies, male fantasies, is everything run by male fantasies? Up on a pedestal or down on your knees, it's all a male fantasy: that you're strong enough to take what they dish out, or else too weak to do anything about it. Even pretending you aren't catering to male fantasies is a male fantasy: pretending you're unseen, pretending you have a life of your own, that you can wash your feet and comb your hair unconscious of the ever-present watcher peering through the keyhole, peering through the keyhole in your own head, if nowhere else. You are a woman with a man inside watching a woman. You are your own voyeur.”$
 ― **Margaret Atwood, The Robber Bride** 
 
 
