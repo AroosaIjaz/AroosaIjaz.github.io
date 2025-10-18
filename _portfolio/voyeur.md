@@ -19,7 +19,7 @@ EVERY MOMENT IS CONDITIONED AND EXAMINED: Even for children and young girls, mod
 Since you exist as a woman, something needs to be decided about you. Since you exist, you are up for "grabs" to be owned by someone. Since you exist, regardless of your age or intention or knowledge, you are the object that can tempt any man around you, whether he is family or stranger. Since you exist, you have to be "tamed" for one group of men and "protected" from the other gorup of men. 
 
 
-So every moment of your life can only involve either teaching you to be "good women" or protecting you from "bad men"... 
+So every moment of your life can only involve either goading you to be "good women" or protecting you from "bad men"... 
 
 
 **It seems that as a woman, you live through men's lens, on men's conditions, to serve men, in a man's world.**
