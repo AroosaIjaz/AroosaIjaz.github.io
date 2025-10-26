@@ -20,6 +20,6 @@ Are we the ones you fight for? or are we the ones you hurt and humiliate when yo
 
 How do we share this earth with you?
 
-From women who were mass raped and their vaginas stabbed with bayonets in [Nanjing](https://en.wikipedia.org/wiki/Nanjing_Massacre) to women committing mass suicides in [Sudan](https://www.darfurwomenaction.org/press_release/over-120-civilians-killed-and-over-130-women-committed-suicide-to-escape-rape-by-rsf/) to avoid that same fate, to all the women and children's lives that are effected or lost daily because of violence perpetrated by you...Why do we have to pay the price for your insecurities, your made-up constructs of honor, your lust and your wars? 
+From women who were mass raped and their vaginas stabbed with bayonets in [Nanjing](https://en.wikipedia.org/wiki/Nanjing_Massacre) to women committing mass suicides in [Sudan](https://www.darfurwomenaction.org/press_release/over-120-civilians-killed-and-over-130-women-committed-suicide-to-escape-rape-by-rsf/) to avoid that same fate, to all the women whose lives are effected or lost daily because of violence perpetrated by you...Why do we have to pay the price for your insecurities, your made-up constructs of honor, your lust and your wars? 
 
 How should we value you in return, if the value of any of us to any of you can be less than that of disposible trash? 
