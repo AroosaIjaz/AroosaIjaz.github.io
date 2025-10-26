@@ -14,6 +14,8 @@ Are we the ones responsible for "male loneliness"? or are we the "old ball and c
 
 Are we important to you? or are our "feminine" traits and the female gender so low that you use it as a slur towards each other?
 
+Are we what you want to love? or are we what you want to own and use for your comfort and pleasure?
+
 Are we the ones you fight for? or are we the ones you hurt and humiliate when you want to make your rampage of terror in wars and disputes?
 
 
