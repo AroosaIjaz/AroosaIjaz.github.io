@@ -16,13 +16,13 @@ What is the value of a woman to a man?
 
 Are we the ones responsible for "male loneliness"? or are we the "old ball and chain"?
 
-Are we the ones that you depend on to bring love, color and kindness to your life? or is our gender and our "feminine" traits so low that you use it as a slur towards each other?...So low that the idea of a man willingly tansitioning to become a woman is considered an insult by you?
-
 Are we the ones you want to fight for? or are we the ones you rape, torture and humiliate when you want to make your rampage of terror in wars? 
 
-Are we what you want to love? or are we what you want to own?
+Are we the ones that you depend on to bring love, color and kindness to your life? or is our gender and our "feminine" traits so low that you use it as a slur towards each other?...So low that the idea of a man willingly tansitioning to become a woman is considered an insult by you?
 
 Are we the ones who are strong and respectable because we give birth to you? or are we the weak ones that are easy tagets for your power trips?
+
+Are we what you want to love? or are we what you want to own?
 
 How do we share this earth with you?
 
