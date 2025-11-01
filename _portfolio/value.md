@@ -16,7 +16,7 @@ What is the value of a woman to a man?
 
 Are we the ones responsible for "male loneliness"? or are we the "old ball and chain"?
 
-Are we important to you? or are our "feminine" traits and the female gender so low that you use it as a slur towards each other?
+Are we the ones that you depend on to bring love, color and kindness to your life? or are our "feminine" traits and the female gender so low that you use it as a slur towards each other?
 
 Are we the ones you want to fight for? or are we the ones you rape, torture and humiliate when you want to make your rampage of terror in wars? 
 
