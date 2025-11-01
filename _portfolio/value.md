@@ -8,7 +8,7 @@ Date: 28-10-2025
 
 Do you know how many bodies of children and women are found in the trash every day around the world? 
 
-How many are found in ditches and forests and water bodies? 
+How many are found in ditches and forests and water bodies and road sides and landfills? 
 
 and how many are never found at all?
 
