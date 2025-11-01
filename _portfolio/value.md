@@ -26,6 +26,6 @@ Are we the ones who are strong and respectable because we give birth to you? or 
 
 How do we share this earth with you?
 
-From women who were mass raped and their vaginas stabbed with bayonets in [Nanjing](https://en.wikipedia.org/wiki/Nanjing_Massacre) to women committing mass suicides in [Sudan](https://www.darfurwomenaction.org/press_release/over-120-civilians-killed-and-over-130-women-committed-suicide-to-escape-rape-by-rsf/) to avoid that same fate, to all the millions of women whose lives continue to be effected or lost because of violence perpetrated by you...Why do we have to pay the price for your insecurities, your constructs of honor, your lust, your short-comings and your wars? 
+From women who were mass raped and their vaginas stabbed with bayonets in [Nanjing](https://en.wikipedia.org/wiki/Nanjing_Massacre) to women committing mass suicides in [Sudan](https://www.darfurwomenaction.org/press_release/over-120-civilians-killed-and-over-130-women-committed-suicide-to-escape-rape-by-rsf/) to avoid that same fate, to all the millions of women whose lives continue to be effected or lost because of violence perpetrated by you...a story as old as time...Why do we have to pay the price for your insecurities, your constructs of honor, your lust, your short-comings and your wars? 
 
 **How should we value you in return if the value of any of us to any of you can be less than that of disposible trash?** 
