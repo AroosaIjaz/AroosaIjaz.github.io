@@ -22,10 +22,14 @@ Are we the ones you want to fight for? or are we the ones you rape, torture and 
 
 Are we the ones that you depend on to bring love, color and kindness to your life? or is our gender and our "feminine" traits so low that you use it as a slur towards each other?...So low that the idea of a man willingly tansitioning to become a woman is considered an insult by you?
 
-Are we the ones who are strong and respectable because we give birth to you? or are we the weak ones that are easy tagets for your power trips?
+Are we the ones who are strong and respectable because we give birth to you? or are we the weak ones that are easy tagets for your power trips? 
 
 Are we what you want to love? or are we what you want to own?
 
-How do we share this earth with you? From women who were mass raped and their vaginas stabbed with bayonets in [Nanjing](https://en.wikipedia.org/wiki/Nanjing_Massacre) to women committing mass suicides in [Sudan](https://www.darfurwomenaction.org/press_release/over-120-civilians-killed-and-over-130-women-committed-suicide-to-escape-rape-by-rsf/) to avoid that same fate, to all the millions of women whose lives continue to be effected or lost because of violence perpetrated by you...a story as old as time...Why do we have to pay the price for your insecurities, your constructs of honor, your lust, your short-comings and your wars? 
+How do we share this earth with you...? 
+
+From women who were mass raped and their vaginas stabbed with bayonets in [Nanjing](https://en.wikipedia.org/wiki/Nanjing_Massacre) to women committing mass suicides in [Sudan](https://www.darfurwomenaction.org/press_release/over-120-civilians-killed-and-over-130-women-committed-suicide-to-escape-rape-by-rsf/) to avoid that same fate...to all the millions of women whose lives continue to be effected or lost because of violence perpetrated by you...A story as old as time...
+
+How do we share this earth with you...? Why do we have to pay the price for your insecurities, your constructs of honor, your lust, your short-comings and your wars? 
 
 **How should we value you in return if the value of any of us to any of you can be less than that of disposible trash?** 
