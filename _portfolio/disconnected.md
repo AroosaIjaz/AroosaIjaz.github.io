@@ -52,7 +52,7 @@ If men were thinking for both of us, would men in so many cultures and religions
 Are these all not symptoms of a disconnect? Does it all not take an overwhleming disregard of someone's humanity...? 
 
 
-What does it take for a man to look past the pain his wife or mother or sister or female friend could be in...? What does it take for a man to want to control what "their woman" can do or say or wear...? What does it take for a man to decide to hit a woman...? What does it take for a man to rape a child and destroy their sense of self and safety forever only to satisfy his own very fleeting and momentary sense of power and/or pleasure...? 
+What does it take for a man to look past this pain any woman is in...or to inflict it? What does it take for a man to want to control what "their woman" can do or say or wear...? What does it take for a man to decide to hit a woman...? What does it take for a man to rape a child and destroy their sense of self and safety forever only to satisfy his own very fleeting and momentary sense of power and/or pleasure...? 
 
 
 From how showing violence against women is so normal in media...to how even the idea of an "independent woman" is defined through the lens of men....the examples of how this disconnect shapes our world go on and on.... 
@@ -64,13 +64,13 @@ Why is this so?
 Is this built too deeply into the gender roles by now? 
 
 
-Is this biological; just plain human nature?
+Is this biological; is it just plain human nature?
 
 
 Is this about empathy (or lack thereof)? It seems that even men with empathy do not seem to be able to make themselves uncomfortable long enough to want to listen to our voices or care enough to hold other men accountable.
 
 
-Is this about the existing power imbalance? The ones in power can either keep their eyes closed to the suffering or they can actively participate to mantain the status quo, right? Are there any other options? Just by cost-benefit analysis, they have to invalidate and disconnect from the "other" in some way to keep their previlige, right? Even if one of them can pacify their conscience and believe they are not "the bad one", they silently but actively rely on the rest of their group to not only keep the benefits rolling but to even mantain their personal sense of "goodness". 
+Is this about the existing power imbalance? The ones in power can either keep their eyes closed to the suffering of their oppressed or they can actively participate to mantain the status quo, right? Are there any other options? Just by cost-benefit analysis, they have to invalidate and disconnect from the "other" in some way to keep their previlige, right? Even if a oppressor can pacify their conscience and believe they are not "the bad one", they silently but actively rely on the rest of their group to not only keep the benefits rolling but to even mantain their own personal sense of "goodness". 
 
 
 Or maybe it is a mix of all these factors? 
