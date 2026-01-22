@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/sense2025
 venue: "Materials Today Quantum"
 date: 2025-04-22 
-citation: 'A.Ijaz, et al. <i>Materials Today Quantum, Volume 6, 2025</i>'
+citation: 'A.Ijaz, et al. Materials Today Quantum, Volume 6, (2025)'
 ---
 
 [[MTQ2025]](https://www.sciencedirect.com/science/article/pii/S2950257825000204)
