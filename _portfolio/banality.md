@@ -10,9 +10,11 @@ Date: 11-02-2026
 
 The more men I meet, the more I am astounded by their disconnect and superficial empathy on the topic of gender-based or sexual violence. It is not just they are completely isolated from how women experience this world on the daily, it is their intentional and chosen disconnect from it and our humanity.
 
-We ignorantly justify many of our actions by saying "you can not truly understand it till you experience it yourself". 
+As humans, we ignorantly justify many of our actions by saying "you can not truly understand it till you experience it yourself".
+
 It helps us continue to live in our "zone of interest". 
-For example, it helps many not care about how our economies are setup to run by exploiting resources and people in less developed parts of the world (who are forced and kept in that state because some developed countries want to keep that power dynamic).
+
+For example, it helps many not care about how most developed economies are setup by exploiting resources and people in less developed parts of the world (who are forced and kept in that state because some developed countries want to keep that power dynamic).
 
 So I have more of a hypothetical and theoretical question for fellow women: 
 
