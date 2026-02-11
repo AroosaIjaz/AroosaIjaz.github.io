@@ -20,7 +20,7 @@ So I have more of a hypothetical and theoretical question for fellow women:
 
 Do you think it is the same for men and our power dynamic with them? Can they truly never understand what sexual violence can do to a woman? Can they **humanly** connect with it? Do they need to experience something equivalent to do so...which is not possible in reality because women are physically weaker and unless we can change that in human evolution, a man can never experience some of the fears we do.
 
-We dont have to look at the current Epstein case, where even men of great "intellect" were ok with destroying children's lives, felt a comradery in it to their peers, understood their peers entitlement and ego to do so or were at least silent and unbothered about it. They continue to do so to this day.
+We dont have to look at the current Epstein case, where even men of great "intellect" were ok with destroying children's and women's lives, felt a comradery in it to their peers, understood their peers entitlement to do so, or were at least silent and unbothered about it. They continue to do so to this day.
 
 You see this behavior from many men to various degrees, at all socioeconomic levels...
 
