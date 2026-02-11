@@ -18,7 +18,7 @@ For example, it helps many not care about how most developed economies are setup
 
 So I have more of a hypothetical and theoretical question for fellow women: 
 
-Do you think it is the same for men and our power dynamic with them? Can they truly never understand what sexual violence can do to a woman? Can they **humanly** connect with it, its complexity and its myriad of emotions, pain, trauma and loss? Do they need to experience something equivalent to do so...which is not possible in reality because women are physically weaker and unless we can change that in human evolution, a man can never experience some of the fears we do.
+Do you think it is the same for men and our power dynamic with them? Can they truly never understand what sexual violence can do to a woman? Can they **humanly** connect with it, its complexity and its myriad of emotions, pain, trauma and loss? Are there fundamental and unworkable limitations to human understanding then? Do they need to experience something equivalent to do so...which is not possible in reality because women are physically weaker and unless we can change that in human evolution, a man can never experience some of the fears we do.
 
 We dont have to look at the current Epstein case, where even men of great "intellect" were ok with destroying children's and women's lives, felt a comradery in it to their peers, understood their peers entitlement to do so, or were at least silent and unbothered about it. They continue to do so to this day. Even if they were not participating in the violence themselves, are they guilty? Or is it just being part of the social order? 
 
@@ -26,7 +26,7 @@ You see this behavior from many men to various degrees, at all socioeconomic lev
 
 So let us narrow down to the best of them, who try to listen to us and say "ah, sorry that happened to you" and try to show compassion and care....but even these men then quietly go back to the same social system and never actually do anything. Isn't that also evidence of "ah, too bad. anyway, it is not my problem and i will never need to worry about this problem"...? I would say that is still intentional, no? It is a choice they make: to not learn, to not do anything. The next natural question is: is it ok for us women to accept that or is it more that it is our only choice?
 
-**Philosopher Hannah Arendt talked about the "banality of evil"; she brilliantly pointed out the evil that comes from ordinary people's unquestioned complacency to the social order.**
+**Philosopher Hannah Arendt brilliantly talked about the "banality of evil": the evil that comes from ordinary people's unquestioned complacency to the social order.**
 
 
-PS: I know some men also experience sexual violence, and that is also terrible and awful. My post is about women specifically.
+PS: I know some men also experience sexual violence, and that is also extremely terrible and awful. My post is about women specifically.
