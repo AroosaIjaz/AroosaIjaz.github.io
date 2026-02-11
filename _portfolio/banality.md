@@ -24,7 +24,7 @@ We dont have to look at the current Epstein case, where even men of great "intel
 
 You see this behavior from many men to various degrees, at all socioeconomic levels...
 
-So let us narrow down to the best of them, who try to listen to us and say "ah, sorry that happened to you" and try to show compassion and care....but even these men then quietly go back to the same social system and never actually do anything. Isn't that also evidence of "ah, too bad. anyway, it is not my problem and i will never need to worry about this problem"...? I would say that is still intentional, no? It is a choice they make: to not learn, to not do anything. The next natural question is: is it ok for us women to accept that or is it more that it is our only choice?
+So let us narrow down to the best of them, who try to listen to us and say "ah, sorry that happened to you" and try to show compassion and care....but even these men then quietly go back to the same social system and never actually do anything. Isn't that also evidence of "ah, too bad. anyway, it is not my problem and I will never need to worry about this problem"...? I would say that is still intentional, no? It is a choice they make: to not learn, to not do anything. The next natural question is: is it ok for us women to accept that or is it more that it is our only choice?
 
 **Philosopher Hannah Arendt brilliantly talked about the "banality of evil": the evil that comes from ordinary people's unquestioned complacency to the social order.**
 
