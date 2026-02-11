@@ -22,9 +22,9 @@ Do you think it is the same for men and our power dynamic with them? Can they tr
 
 We dont have to look at the current Epstein case, where even men of great "intellect" were ok with destroying children's lives, felt a comradery in it to their peers, understood their peers entitlement and ego to do so or were at least silent and unbothered about it. They continue to do so to this day.
 
-you see this behavior from many men to various degrees, at all socioeconomic levels...
+You see this behavior from many men to various degrees, at all socioeconomic levels...
 
-So let us narrow down to the best of them, who try to listen to us and say "ah, sorry that happened to you" and try to show compassion and care....but even these men then quietly go back to the same social system and never actually do anything. Isn't that also evidence of "ah, too bad. anyway, it is not my problem and i will never need to worry about this problem"...? I would say that is still intentional, no? it is a choice they make, to not learn, to not do anything. is it ok for us women to accept that or is it more that it is our only choice?
+So let us narrow down to the best of them, who try to listen to us and say "ah, sorry that happened to you" and try to show compassion and care....but even these men then quietly go back to the same social system and never actually do anything. Isn't that also evidence of "ah, too bad. anyway, it is not my problem and i will never need to worry about this problem"...? I would say that is still intentional, no? It is a choice they make: to not learn, to not do anything. The next natural question is: is it ok for us women to accept that or is it more that it is our only choice?
 
 **Philosopher Hannah Arendt talked about the "banality of evil"; she brilliantly pointed out the evil that comes from ordinary people's unquestioned complacency to the social order.**
 
