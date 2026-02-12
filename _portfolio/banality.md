@@ -24,9 +24,10 @@ We dont have to look at the current Epstein case, where even men of great "intel
 
 You see this behavior from many men to various degrees, at all socioeconomic levels...
 
-So let us narrow down to the best of them, who try to listen to us and say "ah, sorry that happened to you" and try to show compassion and care....but even these men then quietly go back to the same social system and never actually do anything. Isn't that also evidence of "ah, too bad. anyway, it is not my problem and I will never need to worry about this problem"...? I would say that is still intentional, no? It is a choice they make: to not learn, to not do anything. The next natural question is: is it ok for us women to accept that or is it more that it is our only choice?
+So let us narrow down to the best of them, who try to listen to us and say "ah, sorry that happened to you" and try to show compassion and care....but even these men then quietly go back to the same social system and never actually do anything. Isn't that also evidence of "ah, too bad. anyway, it is not my problem and I will never need to worry about this problem"...? I would say that is still intentional, no? It is a choice they make: to not learn, to not do anything. Are they malicious for doing so? Or is it just being part of the social order?
 
 **Philosopher Hannah Arendt brilliantly talked about the ["banality of evil"](https://en.wikipedia.org/wiki/Eichmann_in_Jerusalem): the evil that comes from ordinary people's unquestioned complacency to the social order.**
 
+The next natural question is: is it ok for us women to accept that or is it more that it is our only choice?
 
-PS: I know some men also experience sexual violence, and that is also extremely terrible and awful. My post is about women specifically.
+PS: I know some men also experience sexual violence, and that is also extremely terrible and awful. My post is about women specifically (more than 90% of sexual violence victims are women).
