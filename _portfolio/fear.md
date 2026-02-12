@@ -14,7 +14,7 @@ shackles around my throat
 
 shackles that become bigger and heavier with every momemt
 
-I desperately look around...every woman around me had her own...every one of us was drowning...
+I desperately look around...every woman around me has her own...every one of us is drowning...
 
 shackles that are bigger than life
 
@@ -28,13 +28,13 @@ They defeat you
 
 They keep you low
 
-where do we go?
+Where do we go?
 
 Every where you turn, you see walls 
 
 Every step you take, you feel the restraint from the chains
 
-where do we go?
+Where do we go?
 
 When I was in high school, I worked on a physics project to design a self-sufficient human colony in space, a fascinating theoretical idea. Placed at Lagrange points near earth, we could in principle have everything we need...I still think about it many years later...it gives me a fantasy to mull over...a possible escape! should all women go there...will we be safe there...? 
 
