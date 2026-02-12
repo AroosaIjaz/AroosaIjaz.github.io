@@ -26,7 +26,7 @@ You see this behavior from many men to various degrees, at all socioeconomic lev
 
 So let us narrow down to the best of them, who try to listen to us and say "ah, sorry that happened to you" and try to show compassion....but even these men then quietly go back to the same social system and never actually do anything. Isn't that also evidence of "ah, too bad. Anyway, it is not my problem and I will never need to worry about this problem"...? I would say that is still intentional, no? It is a choice they make: to not learn, to not do anything. Are they malicious for doing so? Or is it just being part of the social order?
 
-**Philosopher Hannah Arendt brilliantly talked about the ["banality of evil"](https://en.wikipedia.org/wiki/Eichmann_in_Jerusalem): the evil that comes from ordinary people's unquestioned complacency to the social order.**
+**Philosopher Hannah Arendt brilliantly talked about the ["banality of evil"](https://en.wikipedia.org/wiki/Eichmann_in_Jerusalem): the normalized and invisible harm that comes from ordinary people's unquestioned complacency to the social order.**
 
 The next natural question is: is it ok for us women to accept that or is it more that it is our only choice?
 
