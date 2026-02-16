@@ -84,6 +84,8 @@ Miscellaneous Interests
 * Reading: Classics and fiction like Fyodor Dostoevsky, Franz Kafka, Thomas Hardy, Albert Camus, Bohumil Hrabal, JRR Tolkien, Joseph Conrad, Vsevolod Garshin, Simone de Beauvoir
   
 * Dancing: Salsa, Swing, Tango, Waltz, Cha Cha Cha, Bachata, Bhangra
+
+* Languages (trying to or want to learn): Italian, German, Korean, Turkish, Persian, Arabic 
   
 * Other interests: Drums, Existentialism, Absurdism, Sociology, Behavioral Psychology, History, Painting, Martial arts 
 
