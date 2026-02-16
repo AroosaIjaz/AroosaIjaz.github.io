@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitae [PDF]](http://AroosaIjaz.github.io/files/Aroosa_CV_april2025.pdf)
+[Curriculum Vitae [PDF]](http://AroosaIjaz.github.io/files/Aroosa_CV_Jan2026.pdf)
 
 Education
 ======
@@ -22,8 +22,8 @@ Education
 Work experience
 ======
 * Visiting graduate researcher, Jens Eisert Group, Freie University Berlin. January to April 2024
-* Graduate researcher, Theory division, LANL. September to December 2023 
-* Intern Quantum Computing Summer school, LANL. June to August 2023
+* Graduate researcher, Theory division, Los Alamos National Lab. September to December 2023 
+* Intern Quantum Computing Summer school, Los Alamos National Lab. June to August 2023
 * Quantum machine learning scientist at Xanadu. September 2019 to August 2020
 * Quantum machine learning intern at Xanadu. May 2019 to August 2019
 * Research assistant with Prof. Fedor Jelezko, Institute for Quantum Optics, Ulm University. May 2015 to August 2016
@@ -81,12 +81,12 @@ Miscellaneous Interests
   
 * Music: Heavy, death, progressive, and Avant-Garde metal. Some of my favorite bands: Sepultura, Gojira, Opeth, Tool, Acrassicauda, Death, Archspire, Fulci, Lamb of God, Symphony X, Dream Theater, Blind Guardian, Diablo Swing Orchestra, Porcupine Tree, Megadeth, Negura Bunget
    
-* Reading: Classics and fiction like Fyodor Dostoevsky, Franz Kafka, Thomas Hardy, Albert Camus, Bohumil Hrabal, JRR Tolkien, Joseph Conrad, Vsevolod Garshin, Simone de Beauvoir
+* Reading: Classics and fiction. Some of my favorite authors: Fyodor Dostoevsky, Franz Kafka, Thomas Hardy, Albert Camus, Bohumil Hrabal, JRR Tolkien, Joseph Conrad, Vsevolod Garshin, Simone de Beauvoir
   
 * Dancing: Salsa, Swing, Tango, Waltz, Cha Cha Cha, Bachata, Bhangra
 
 * Languages (trying to or want to learn): Italian, German, Korean, Turkish, Persian, Arabic 
   
-* Other interests: Drums, Existentialism, Absurdism, Sociology, Behavioral Psychology, History, Painting, Martial arts 
+* Other interests: Drums, Existentialism, Absurdism, Sociology, Behavioral Psychology, History, Law and Policy, Painting, Martial arts 
 
 
