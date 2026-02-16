@@ -13,8 +13,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D Physics, University of Waterloo, 2020-Present
-* Affiliated graduate researcher at Vector Institute for Artificial Intelligence, Toronto, 2020-2025
+* Ph.D Physics, University of Waterloo, 2021-Present
+* Affiliated graduate researcher at Vector Institute for Artificial Intelligence, Toronto, 2021-2025
 * Ph.D Physics, ETH Zürich, 2016-2018 (changed research field from experimental to theoretical quantum computing)
 * M.Sc. Physics, Ulm University, 2014-2016
 * B.Sc. Physics, Computer Science, Lahore University of Management Sciences, 2009-2013
@@ -32,8 +32,8 @@ Work experience
   
 Awards
 ======
-* Marie Curie Graduate Student Award (upto CAD 10000/Year), University of Waterloo, 2020-2025
-* Vector Research Grant (CAD 6000/year), Vector Institute, 2021-2024 
+* Marie Curie Graduate Student Award (upto CAD 10000/Year), University of Waterloo, 2021-2025
+* Vector Research Grant (CAD 6000/year), Vector Institute, 2021-2025 
 * Xanadu QHACK 2021: [3rd position](https://medium.com/xanaduai/qhack-the-quantum-machine-learning-hackathon-7f2cd7348e2b)
 * Marie Curie Young Researcher Fellowship, ETH Zürich, 2016-2018 ([news release](https://ist.lums.edu.pk/news/alumni-stories/lums-alumna-wins-marie-sk%C5%82odowska-curie-actions-fellowship-her-phd-eth-zurich))
 * Degree Scholarship for 1500 Euros, Ulm University, 2015 
@@ -79,12 +79,12 @@ Miscellaneous Interests
 =======================
 * Sports: Badminton, Tennis, Squash, Ultimate Frisbee, Volleyball, Table Tennis, Football
   
-* Music: Heavy, death, progressive, and Avant-Garde metal. Some of my favorite bands: Sepultura, Gojira, Opeth, Tool, Lamb of God, Symphony X, Dream Theater, Acrassicauda, Death, Blind Guardian, Diablo Swing Orchestra, Porcupine Tree, Megadeth, Archspire, Negura Bunget
+* Music: Heavy, death, progressive, and Avant-Garde metal. Some of my favorite bands: Sepultura, Gojira, Opeth, Tool, Acrassicauda, Death, Archspire, Fulci, Lamb of God, Symphony X, Dream Theater, Blind Guardian, Diablo Swing Orchestra, Porcupine Tree, Megadeth, Negura Bunget
    
-* Reading: Classics and fiction like Fyodor Dostoevsky, Franz Kafka, Thomas Hardy, Albert Camus, Bohumil Hrabal, JRR Tolkien, Joseph Conrad, Vsevolod Garshin
+* Reading: Classics and fiction like Fyodor Dostoevsky, Franz Kafka, Thomas Hardy, Albert Camus, Bohumil Hrabal, JRR Tolkien, Joseph Conrad, Vsevolod Garshin, Simone de Beauvoir
   
 * Dancing: Salsa, Swing, Tango, Waltz, Cha Cha Cha, Bachata, Bhangra
   
-* Other interests: Drums, Existentialism, Absurdism, Sociology, Behavioral Psychology, History, Literature, painting, martial arts 
+* Other interests: Drums, Existentialism, Absurdism, Sociology, Behavioral Psychology, History, Painting, Martial arts 
 
 
