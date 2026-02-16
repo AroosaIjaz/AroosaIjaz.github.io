@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/pennylane
 venue: "ArXiv"
 date: 2022-07-29 
-citation: 'Ville Bergholm et al. PennyLane: Automatic differentiation of hybrid quantum-classical computations. 2018'
+citation: 'Ville Bergholm et al. arXiv:1811.04968 (2022)'
 ---
 
 [[ArXiv2022]](https://arxiv.org/abs/1811.04968)
