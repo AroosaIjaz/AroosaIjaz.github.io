@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * Ph.D Physics, University of Waterloo, 2021-Present
-* Affiliated graduate researcher at Vector Institute for Artificial Intelligence, Toronto, 2021-2025
+* Affiliated graduate researcher at Vector Institute for Artificial Intelligence, Toronto, 2021-Present
 * Ph.D Physics, ETH Zürich, 2016-2018 (changed research field from experimental to theoretical quantum computing)
 * M.Sc. Physics, Ulm University, 2014-2016
 * B.Sc. Physics, Computer Science, Lahore University of Management Sciences, 2009-2013
