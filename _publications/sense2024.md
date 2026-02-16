@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/sense2024
 venue: "ArXiv"
 date: 2024-10-01 
-citation: 'A.Ijaz, et al. <i>arXiv:2410.00197</i>'
+citation: 'A.Ijaz, et al. arXiv:2410.00197 (2024)'
 ---
 
 [[ArXiv2024]](https://arxiv.org/abs/2410.00197)
