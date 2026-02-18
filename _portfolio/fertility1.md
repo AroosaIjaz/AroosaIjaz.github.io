@@ -25,7 +25,7 @@ In [this international study](https://pmc.ncbi.nlm.nih.gov/articles/PMC6282098) 
 **With such fundamental differences in motivations and perceived parenting roles, how do we individually and collectively work towards healthier families and societies?** 
 
 
-## Maybe we need to change the question from "Do you want to have children?" to "Do you deserve to be a parent?"
+> Maybe we need to change the question from "Do you want to have children?" to "Do you deserve to be a parent?"
 
 
 Maybe any prospective parents should have children if and only if (not applicable to an individual who wants to choose to have or raise a child by themselves):
