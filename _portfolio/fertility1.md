@@ -39,7 +39,7 @@ Maybe any prospective parents should have children if and only if (not applicabl
 5. ⁠given these first 4 points are satisfied, both partners actively discuss their motivations and readiness; check that they want to have children because they can be (and want to learn to be) good parents, and not because they want to have kids as a retirement plan or for their own ego or just because that is what they were told to do.
 
 
-But what can be done here practically? How do we address the existing destructive parenting styles, incompatible gender roles, and the consequent rampant child abuse? How does race, religion and culture, patriarchy, climate change and technology play into this _"reproductive coercion"_?
+But what can be done here practically? How do we address the existing destructive parenting styles, incompatible gender roles, and the consequent rampant child abuse? How does race, religion, culture, patriarchy, politics, climate change and technology play into this _"reproductive coercion"_?
 
 Are we even ready to talk about this? With rapidly increasing economic inequality worldwide, are we walking backwards where these concerns take a backseat again for most of the human beings while they go into survival mode?
 
