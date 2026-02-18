@@ -22,10 +22,10 @@ In reasons against having a child, men rated "interfere with career", "less time
 
 In [this international study](https://pmc.ncbi.nlm.nih.gov/articles/PMC6282098) across 79 countries with ~10000 participants who were partnered and were trying to conceive at the time, it was shown that compared with women, men were exposed to significantly more social pressure to have children (by partners, in-laws, community), but despite lower desire for a child and lesser readiness to conceive (economic, personal and relational readiness), men were significantly more willing to comply with this social pressure. For example, in countries where parents are given a higher social status, men were more likely to take it into account as a motivational force than women in their reproductive decision making. 
 
-**With such fundamental differences in motivations and perceived parenting roles, how do we individually and collectively work towards healthier families and societies?** 
+With such fundamental differences in motivations and perceived parenting roles, how do we individually and collectively work towards healthier families and societies?
 
 
-> Maybe we need to change the question from "Do you want to have children?" to "Do you deserve to be a parent?"
+> **Maybe we need to change the question from "Do you want to have children?" to "Do you deserve to be a parent?"**
 
 
 Maybe any prospective parents should have children if and only if (not applicable to an individual who wants to choose to have or raise a child by themselves):
@@ -36,6 +36,5 @@ Maybe any prospective parents should have children if and only if (not applicabl
 4. they can both act as a full parent on their own (in case sickness befalls one of them, for example)
 5. ⁠given these first 4 points are satisfied, both partners actively discuss their motivations and readiness; check that they want to have children because they can be (and want to learn to be) good parents, and not because they want to have kids as a retirement plan or for their own ego or just because that is what they were told to do.
 
-But what can be done here practically? 
 
-**How do we address the existing destructive parenting styles, incompatible gender roles, and the consequent rampant child abuse? Are we even ready to talk about this? With rapidly increasing economic inequality worldwide, are we walking backwards where these concerns take a backseat again for most of the human beings while they go into survival mode?**
+But what can be done here practically? How do we address the existing destructive parenting styles, incompatible gender roles, and the consequent rampant child abuse? Are we even ready to talk about this? With rapidly increasing economic inequality worldwide, are we walking backwards where these concerns take a backseat again for most of the human beings while they go into survival mode?**
