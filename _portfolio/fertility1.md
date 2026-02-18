@@ -6,20 +6,27 @@ collection: portfolio
 
 Date: 18-02-2026
 
+
 When asked **if** they want to have children, both men and women are (more or less) equally likely to say yes. 
+
 
 When asked **why or why not** they want to have children, many interesting differences can be observed in the motivations of the two biological genders. 
 
-In [this study](https://doi.org/10.1080/02646830500129438) from the UK on ~900 young married heterosexual couples currently without children, men rated "carrying on family name", "good for relationship", and "fun" as reasons for having a child more highly than women, whereas women rated only one reason ("biological drive") higher than men. 
-In reasons against having a child, men rated "interfere with career", "less time with partner", "emotional strain", "responsibility", and "lacking patience" more highly than women. While women rated only one reason ("partner’s wishes") more highly than men. Hence, in this study, men's motivations reflected cost-benefit framing more than a caregiving one.  
 
 In [this study](https://doi.org/10.1080/13676261.2022.2080536) from Poland on ~1800 single young adults (18-20 year old), the authors studied how strongly various reasons behind childbearing (both for and against) are correlated to the desire to have children. They noted consistently stronger correlations in women compared to men. The reason "emotional connectedness" had the largest positive correlation to this desire for women. The reason "negatives of childcare" had the largest negative correlation to this desire for men, but was even more negative for women (likely reflecting the anticipated caregiving load differences). Interestingly, the reason "discomforts of pregnancy and delivery" had almost no correlation with whether men want children, while having a very large negative correlation for women (hinting at normalization and minimization of women's pain and effort in childbearing). So, in this study, we can see that for young women, wanting children depended heavily on how meaningful, emotionally fulfilling, and manageable they expected parenthood to be. For young men, these reasons mattered but they were less influenced by these concerns.
+
+
+In [this study](https://doi.org/10.1080/02646830500129438) from the UK on ~900 young married heterosexual couples currently without children, men rated "carrying on family name", "good for relationship", and "fun" as reasons for having a child more highly than women, whereas women rated only one reason ("biological drive") higher than men. 
+In reasons against having a child, men rated "interfere with career", "less time with partner", "emotional strain", "responsibility", and "lacking patience" more highly than women. While women rated only one reason ("partner’s wishes") more highly than men. Hence, in this study, men's motivations reflected cost-benefit framing more than a caregiving one. 
+
 
 In [this international study](https://pmc.ncbi.nlm.nih.gov/articles/PMC6282098) across 79 countries with ~10000 participants who were partnered and were trying to conceive at the time, it was shown that compared with women, men were exposed to significantly more social pressure to have children (by partners, in-laws, community), but despite lower desire for a child and lesser readiness to conceive (economic, personal and relational readiness), men were significantly more willing to comply with this social pressure. For example, in countries where parents are given a higher social status, men were more likely to take it into account as a motivational force than women in their reproductive decision making. 
 
 With such fundamental differences in motivations and perceived parenting roles, how do we individually and collectively work towards healthier families and societies? 
 
+
 **Maybe we need to change the question from "Do you want to have children?" to "Do you deserve to be a parent?"**
+
 
 Maybe any prospective parents should have children if and only if (not applicable to an individual who wants to choose to have or raise a child by themselves):
 
