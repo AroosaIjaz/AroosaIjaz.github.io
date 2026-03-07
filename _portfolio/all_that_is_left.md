@@ -32,7 +32,7 @@ In one of her works, philosopher [Hannah Arendt](https://en.wikipedia.org/wiki/E
 
 is this claim applicable to all cases of human suffering though? 
 
-or is that an illusion we want to construct? would that be another way the oppressor dehumanizes one so the rest of us can keep our hearts at ease regarding the uncomfortable question of the oppressed? so that we can nod our heads and deem them amoral...
+or is that an illusion we want to construct? **would that be another way the oppressor dehumanizes one so the rest of us can keep our hearts at ease regarding the uncomfortable question of the oppressed? so that we can nod our heads and deem them amoral...**
 
 <br/>
 
@@ -47,7 +47,7 @@ In his book "Dawn", [Elie Wiesel](https://en.wikipedia.org/wiki/Elie_Wiesel) por
 
 is this is not about moral absolutism then?
 
-is it  **consistent** morality that is a luxury of the few then?
+is it consistent morality that is a luxury of the few then?
 
 <br/>
 
