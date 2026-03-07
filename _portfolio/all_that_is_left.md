@@ -43,7 +43,7 @@ Is it always possible for us to negotiate between our supposed [inner angles and
 
 Or is it more likely for revenge and trauma to overwhelm the will to stay humane - in a world that has not afforded you any humanity? 
 
-In his book "Dawn", writer [Elie Wiesel](https://en.wikipedia.org/wiki/Elie_Wiesel) vividly portrayed this inner dialogue in a Jewish protagonist from 1947 British-controlled Palestine, a teen survivor of the Buchenwald concentration camp, who has been charged to execute a British soldier. He ultimately becomes the antagonist although he struggles with the moral choices and tries to cling onto himself and humanity. Through him, the writer reflected on the moral choice of the new Israel and its imposition that its pain and trauma be passed on because
+In his book "Dawn", writer [Elie Wiesel](https://en.wikipedia.org/wiki/Elie_Wiesel) vividly portrayed this inner dialogue in a Jewish protagonist from 1947 British-controlled Palestine, a teen survivor of the Buchenwald concentration camp, who has been charged to execute a British soldier. He ultimately becomes the antagonist although he tries to cling onto himself and humanity. Through him, the writer reflected on the moral choice of new Israel and its imposition that its pain and trauma be passed on because
 >"When the dead are hungry, they judge the living without pity."
 
 <br/>
