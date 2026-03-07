@@ -26,7 +26,7 @@ even in scarcity or starvation or war or authoritarianism...?
 
 [Hannah Arendt](https://en.wikipedia.org/wiki/Eichmann_in_Jerusalem) argued that the presence of a moral choice and the undeniable power of non-violent resistance is always there even under totalitarianism. 
 
-is this claim applicable to all cases of human suffering? 
+is this claim applicable to all cases of human suffering though? 
 
 or is that an illusion we want to construct? would that be another way the oppressor dehumanizes one so the rest of us can keep our hearts at ease regarding the uncomfortable question of the oppressed? so that we can nod our heads and deem them amoral...
 
