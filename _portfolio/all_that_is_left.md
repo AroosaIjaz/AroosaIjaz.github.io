@@ -28,7 +28,7 @@ In theory? in mind? in principle?
 
 In scarcity, starvation, war, plague or authoritarianism...? 
 
-In one of her works, philosopher [Hannah Arendt](https://en.wikipedia.org/wiki/Eichmann_in_Jerusalem) argued that the presence of a moral choice and the undeniable power of non-violent resistance is always there even under totalitarianism. 
+In one of her works, philosopher [Hannah Arendt](https://en.wikipedia.org/wiki/Eichmann_in_Jerusalem) argued that the presence of a moral choice and non-violent resistance is always there, even under totalitarianism. 
 
 <br/>
 
