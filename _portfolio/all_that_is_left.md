@@ -3,7 +3,7 @@ title: "All that is left of you"
 excerpt: "All that is left of you"
 collection: portfolio
 ---
-Date: 15-09-2021
+Date: 05-03-2026
 
 From Cherien Dabis’ 2025 Palestinian movie "All That's Left of You". On when the opressor takes away your land, your home, your children, your rights, your food, your dignity, your safety, your history and your hope for a future
 >"all that is left of you is your humanity. They can not take that away."
