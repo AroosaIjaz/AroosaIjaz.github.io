@@ -34,9 +34,11 @@ is it always possible for us to negotiate between our supposed [inner angles and
 
 or is it more likely for revenge or trauma to overwhelm the will to stay humane in a world that has not afforded you any humanity? 
 
-In his 1960 book "Dawn", [Elie Wiesel](https://en.wikipedia.org/wiki/Elie_Wiesel) portrayed a Jewish protagonist from 1947 British-controlled Palestine, a teen survivor of the Buchenwald concentration camp, who ultimately becomes the antagonist although he struggles with the moral choices and tries to cling onto humanity. Through him, the writer reflected on the morality of the the new Israel and its imposition that its pain and trauma be passed on because
+In his 1960 book "Dawn", [Elie Wiesel](https://en.wikipedia.org/wiki/Elie_Wiesel) portrayed a Jewish protagonist from 1947 British-controlled Palestine, a teen survivor of the Buchenwald concentration camp, who has been charged to execute a british soldier. He ultimately becomes the antagonist although he struggles with the moral choices and tries to cling onto himself and humanity. Through him, the writer reflected on the morality of the the new Israel and its imposition that its pain and trauma be passed on because
 >"When the dead are hungry, they judge the living wihtout pity."
 
 is it really **consistent** morality that is a luxury of the few then?
+
+...
 
 In many and varied cultural and social situations, I have seen people choosing morality and kindness and generosity over personal needs, even when they could not afford to...even when it was very difficult to do so...so many will go out of their way to offer you whatever food they have and go hungry themselves...many will choose to stay in adversity but do not want to feed their children with food that was stolen from someone else's child's mouth...
