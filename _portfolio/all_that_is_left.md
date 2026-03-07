@@ -32,9 +32,10 @@ or is that an illusion we want to construct? would that be another way the oppre
 
 is it always possible for us to negotiate between our supposed [inner angles and demons](https://en.wikipedia.org/wiki/The_Better_Angels_of_Our_Nature)? 
 
-or is it often revenge or trauma that overwhelms the will to stay humane in a world that has not afforded you any humanity? 
+or is it more likely for revenge or trauma to overwhelm the will to stay humane in a world that has not afforded you any humanity? 
 
-[Elie Wiesel](https://en.wikipedia.org/wiki/Elie_Wiesel) portrays how the Jewish protagonist in his book "Dawn" becomes the antagonist...through him, he reflects on the morality of the the new Israel and how the holocaust became a generational pain and trauma that would be passed on and on, as a moral choice...
+In his 1960 book "Dawn", [Elie Wiesel](https://en.wikipedia.org/wiki/Elie_Wiesel) portrayed a Jewish protagonist from 1947 British-controlled Palestine, a teen survivor of the Buchenwald concentration camp, who ultimately becomes the antagonist although he struggles with the moral choices and tries to cling onto humanity. Through him, the writer reflected on the morality of the the new Israel and its imposition that its pain and trauma be passed on because
+>"When the dead are hungry, they judge the living wihtout pity."
 
 is it really **consistent** morality that is a luxury of the few then?
 
