@@ -47,7 +47,7 @@ In his book "Dawn", writer [Elie Wiesel](https://en.wikipedia.org/wiki/Elie_Wies
 
 is this is not about moral absolutism then?
 
-is it consistent morality that is a luxury of the few then?
+**is it consistent morality that is a luxury of the few then?**
 
 <br/>
 
