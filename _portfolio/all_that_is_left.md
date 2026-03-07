@@ -5,8 +5,8 @@ collection: portfolio
 ---
 Date: 05-03-2026
 
-From Cherien Dabis’ 2025 Palestinian movie "All That's Left of You". On when the opressor takes away your land, your home, your children, your rights, your food, your dignity, your safety, your history and your future
->"all that is left of you is your humanity. They can not take that away."
+From Cherien Dabis’ 2025 Palestinian movie "All That's Left of You": when the opressor takes away your land, your home, your children, your rights, your food, your dignity, your safety, your history and your future:
+>"All that is left of you is your humanity. They can not take that away."
 
 We see the protagonists choosing to be kind and humane when beset with this choice...
 
@@ -18,7 +18,7 @@ calling out the hypocrisy of the morality imposed by the Church and state, at th
 
 is this always true though? 
 
-is there always a moral choice?
+or is there always a moral choice?
 
 in theory? in mind? in principle? 
 
@@ -26,11 +26,11 @@ even in scarcity or starvation or war or authoritarianism...?
 
 [Hannah Arendt](https://en.wikipedia.org/wiki/Eichmann_in_Jerusalem) argued that the presence of a moral choice and the undeniable power of non-violent resistance is always there even under totalitarianism. 
 
-is this applicable to all and extreme cases of human suffering? 
+is this claim applicable to all cases of human suffering? 
 
-or is it another way the oppressor dehumanizes one so the rest of us can keep our hearts at ease regarding the uncomfortable question of the oppressed? so that we can nod our heads and deem them amoral...
+or is that an illusion we want to construct? would that be another way the oppressor dehumanizes one so the rest of us can keep our hearts at ease regarding the uncomfortable question of the oppressed? so that we can nod our heads and deem them amoral...
 
-is it always possible for us to negotiate between our [inner angles and demons](https://en.wikipedia.org/wiki/The_Better_Angels_of_Our_Nature)? 
+is it always possible for us to negotiate between our supposed [inner angles and demons](https://en.wikipedia.org/wiki/The_Better_Angels_of_Our_Nature)? 
 
 or is it often revenge or trauma that overwhelms the will to stay humane in a world that has not afforded you any humanity? 
 
