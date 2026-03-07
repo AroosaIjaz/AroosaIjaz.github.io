@@ -5,7 +5,7 @@ collection: portfolio
 ---
 Date: 06-03-2026
 
-From Cherien Dabis’ 2025 Palestinian movie "All That's Left of You": when the opressor takes away your land, your home, your children, your rights, your food, your dignity, your safety, your history and your future:
+From Cherien Dabis’ 2025 Palestinian movie "All That's Left of You": when the opressor takes away your land, your home, your children, your rights, your food, your dignity, your safety, your history and your future, I quote Cherien:
 >"All that is left of you is your humanity. They can not take that away."
 
 We see the protagonists choosing to be kind and humane when beset with this choice...
@@ -14,7 +14,7 @@ We see the protagonists choosing to be kind and humane when beset with this choi
 
 It is an interesting question to ponder over...
 
-**How free and how acessible is human morality as a choice?**
+**How free and how accessible is human morality as a choice?**
 
 German writer [Bertolt Brecht](https://en.wikipedia.org/wiki/Bertolt_Brecht)’s famously wrote in 1928 (in one of his Marx-inspired plays while calling out the hypocrisy of the morality imposed by the Church and state):  
 >"Erst kommt das Fressen, dann kommt die Moral" or “Grub first, then ethics”
