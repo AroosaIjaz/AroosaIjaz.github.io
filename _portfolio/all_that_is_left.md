@@ -14,7 +14,7 @@ We see the protagonists choosing to be kind and humane when beset with this choi
 
 it is an interesting question to ponder over...
 
-German writer [Bertolt Brecht](https://en.wikipedia.org/wiki/Bertolt_Brecht)’s famously wrote in 1928 (in one of his Marx-inspired plays while calling out the hypocrisy of the morality imposed by the Church and state at the time):  
+German writer [Bertolt Brecht](https://en.wikipedia.org/wiki/Bertolt_Brecht)’s famously wrote in 1928 (in one of his Marx-inspired plays while calling out the hypocrisy of the morality imposed by the Church and state):  
 >"Erst kommt das Fressen, dann kommt die Moral" or “Grub first, then ethics”
 
 
