@@ -24,7 +24,7 @@ in theory? in mind? in principle?
 
 even in scarcity or starvation or war or authoritarianism...? 
 
-[Hannah Arendt](https://en.wikipedia.org/wiki/Eichmann_in_Jerusalem) argued that the presence of a moral choice and the undeniable power of non-violent resistance is always there even under totalitarianism. 
+In one of her works, philosopher [Hannah Arendt](https://en.wikipedia.org/wiki/Eichmann_in_Jerusalem) argued that the presence of a moral choice and the undeniable power of non-violent resistance is always there even under totalitarianism. 
 
 is this claim applicable to all cases of human suffering though? 
 
