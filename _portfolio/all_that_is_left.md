@@ -27,7 +27,7 @@ Or is there always a moral choice?
 
 In theory? in mind? in principle? 
 
-In scarcity? in war? in plague? or in authoritarianism...? 
+In scarcity? in war? in authoritarianism...? 
 
 In one of her works, philosopher [Hannah Arendt](https://en.wikipedia.org/wiki/Hannah_Arendt) argued that the presence of a moral choice and non-violent resistance is always there, even under totalitarianism. 
 
