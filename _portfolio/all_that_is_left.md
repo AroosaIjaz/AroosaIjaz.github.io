@@ -27,7 +27,7 @@ Or is there always a moral choice?
 
 In theory? in mind? in principle? 
 
-In scarcity, war, plague or authoritarianism...? 
+In scarcity? in war? in plague? or in authoritarianism...? 
 
 In one of her works, philosopher [Hannah Arendt](https://en.wikipedia.org/wiki/Hannah_Arendt) argued that the presence of a moral choice and non-violent resistance is always there, even under totalitarianism. 
 
@@ -35,11 +35,11 @@ In one of her works, philosopher [Hannah Arendt](https://en.wikipedia.org/wiki/H
 
 Is this claim applicable to all cases of human suffering though? 
 
-Or is that an illusion we want to construct? **would that be another way the oppressor dehumanizes one so the rest of us can keep our hearts at ease regarding the uncomfortable question of the oppressed? so that we can shake our heads in unison and deem them amoral...and hence, not worth our pity or thought**
+Or is that an illusion we want to construct? **would that be another way the oppressor dehumanizes one so the rest of us can keep our hearts at ease regarding the uncomfortable question of the oppressed? so that we can shake our heads in unison and deem them amoral...and hence, not worth our pity or thought.**
 
 <br/>
 
-Is it always possible for us to negotiate between our supposed [inner angles and demons](https://en.wikipedia.org/wiki/The_Better_Angels_of_Our_Nature)? 
+Is it always possible for us to negotiate between our supposed [inner angels and demons](https://en.wikipedia.org/wiki/The_Better_Angels_of_Our_Nature)? 
 
 Or is it more likely for revenge and trauma to overwhelm the will to stay humane - in a world that has not afforded you any humanity? 
 
