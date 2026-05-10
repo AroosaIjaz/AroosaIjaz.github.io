@@ -68,6 +68,6 @@ The power of knowledge and choice is seemingly kept out of reach for half the po
 
 Seems like external elements have decided that it is better to **make** you have children in the dark...
 
-This reminds of this 1901 painting from Alfred Kubin:
+This reminds of the following work from Alfred Kubin called "The Egg" (1901-1902):
 
 !["The Egg"](https://github.com/AroosaIjaz/AroosaIjaz.github.io/blob/master/files/alfred-kubin-the-egg-1901-1902.jpg)
