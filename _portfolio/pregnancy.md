@@ -67,3 +67,7 @@ I dont even know where to begin for the women in Pakistan...I will do another po
 The power of knowledge and choice is seemingly kept out of reach for half the population on this planet...
 
 Seems like external elements have decided that it is better to **make** you have children in the dark...
+
+This reminds of this 1901 painting from Alfred Kubin:
+
+!["The Egg"](https://github.com/AroosaIjaz/AroosaIjaz.github.io/blob/master/files/alfred-kubin-the-egg-1901-1902.jpg)
