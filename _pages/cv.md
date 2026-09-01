@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 
-[Curriculum Vitae [PDF]](http://AroosaIjaz.github.io/files/Aroosa_CV_Jan2026.pdf)
-
 Education
 ======
 * Ph.D Physics, University of Waterloo, 2021-Present
@@ -88,4 +86,4 @@ Miscellaneous Interests
   
 * Other interests: Drums, Existentialism, Absurdism, Sociology, Behavioral Psychology, History, Law and Policy, Painting, Embroidery, Martial arts 
 
-
+[Curriculum Vitae [PDF]](http://AroosaIjaz.github.io/files/Aroosa_CV_Jan2026.pdf)
