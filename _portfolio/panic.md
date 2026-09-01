@@ -18,7 +18,7 @@ especially in cases of accidents or assaults, is it always some built-in genetic
 
 Do you always loose or change a part of yourself? 
 
-Can one go through these without lossing diginity and self-respect? 
+Can one go through these without losing dignity and self-respect? 
 
 There doesn't seem to be any agreed-upon code of conduct for the victim or the spectators. 
 
