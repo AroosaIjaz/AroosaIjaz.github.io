@@ -79,14 +79,14 @@ Miscellaneous Interests
 =======================
 * Sports: Badminton, Tennis, Squash, Ultimate Frisbee, Volleyball, Table Tennis, Football
   
-* Music: Heavy, death, progressive, and Avant-Garde metal. Some of my favorite bands: Sepultura, Gojira, Opeth, Tool, Acrassicauda, Death, Archspire, Fulci, Lamb of God, Symphony X, Dream Theater, Blind Guardian, Diablo Swing Orchestra, Porcupine Tree, Megadeth, Negura Bunget
+* Music: Heavy, death, progressive, and Avant-Garde metal. Some of my favorite bands: Sepultura, Gojira, Opeth, Death, Archspire, Fulci, Tool, Acrassicauda, Lamb of God, Necrophagist, Symphony X, Dream Theater, Blind Guardian, Sanguisugabogg, Diablo Swing Orchestra, Porcupine Tree, Megadeth, Negura Bunget
    
-* Reading: Classics and fiction. Some of my favorite authors: Fyodor Dostoevsky, Franz Kafka, Thomas Hardy, Albert Camus, Bohumil Hrabal, JRR Tolkien, Joseph Conrad, Vsevolod Garshin, Simone de Beauvoir
+* Reading: Classics and fiction. Some of my favorite authors: Fyodor Dostoevsky, Franz Kafka, Thomas Hardy, Albert Camus, Bohumil Hrabal, JRR Tolkien, Joseph Conrad, Vsevolod Garshin, Simone de Beauvoir, Han Kang
   
 * Dancing: Salsa, Swing, Tango, Waltz, Cha Cha Cha, Bachata, Bhangra
 
 * Languages (trying to or want to learn): Italian, German, Korean, Turkish, Persian, Arabic 
   
-* Other interests: Drums, Existentialism, Absurdism, Sociology, Behavioral Psychology, History, Law and Policy, Painting, Martial arts 
+* Other interests: Drums, Existentialism, Absurdism, Sociology, Behavioral Psychology, History, Law and Policy, Painting, Embroidery, Martial arts 
 
 
