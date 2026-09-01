@@ -37,11 +37,8 @@ I want to feel numb
 <br/>
 <br/>
 
-I dont have the energy to think 
 
-I dont have the energy to feel
-
-Even the warmth of a human touch feels like a distant memory now
+The warmth of a human touch feels like a distant memory now
 
 yet it is what I desire the most....
 
