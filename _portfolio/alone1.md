@@ -10,6 +10,7 @@ Date: 30-08-2026
 
 **A passing thought from the mind of an eighty-year old homeless man on the streets of Toronto:**
 
+<br/>
 
 My beard grows ever longer and greyer
 
@@ -77,7 +78,7 @@ I want to feel numb
 
 Yet
 
-the insurmountable human need 
+my insurmountable human need 
 
 breaks through into my consciousness 
 
