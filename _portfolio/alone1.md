@@ -59,7 +59,7 @@ I want to feel numb
 <br/>
 <br/>
 
-I am no longer bothered by the sounds and smells , by the heat of these clothes, by the pinching of these shoes, by the pain in my back, by the stolen glances, by the feet rushing past me, by the memories of old promises, by the masked tricks of this life, and by the emptiness of everything...
+I am no longer bothered by the sounds and smells , by the heat of these clothes, by the pinching of these shoes, by the pain in my back, by the feet rushing past me, by the memories of old promises, by the masked tricks of this life, and by the emptiness of everything...
 
 <br/>
 <br/>
@@ -82,9 +82,13 @@ I want to feel numb
 
 Yet
 
-my insurmountable human need 
+my inextinguishable human need 
 
-breaks through into my consciousness 
+breaks through into my consciousness
+
+bringing forth with it
+
+all of my humanity
 
 <br/>
 <br/>
