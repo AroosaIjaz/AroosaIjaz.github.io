@@ -21,6 +21,11 @@ The void grows ever darker and closer
 <br/>
 <br/>
 
+I want to feel numb
+
+<br/>
+<br/>
+
 As I sit here, under the starry night
 
 invisible and forgotten 
@@ -44,7 +49,11 @@ yet it is what I desire the most....
 
 to be seen 
 
+to be told I am seen
+
 to be loved
+
+to be told I am loved
 
 to be tucked into bed and kissed on the forehead
 
