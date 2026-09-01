@@ -54,7 +54,7 @@ I want to feel numb
 
 <br/>
 
-I am no longer bothered by the sounds and smells , by the heat of these clothes, by the pinching of these shoes, by the pain in my back, by the feet rushing past me, by the memories of old promises, by the masked tricks of this life, and by the emptiness of everything...
+I am no longer bothered by the sounds and smells , by the heat of these clothes, by the pinching of these shoes, by the pain in my back, by the stolen glances, by the feet rushing past me, by the memories of old promises, by the masked tricks of this life, and by the emptiness of everything...
 
 <br/>
 
