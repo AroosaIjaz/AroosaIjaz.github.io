@@ -30,6 +30,10 @@ moment to moment
 
 <br/>
 
+I want to feel numb
+
+<br/>
+
 I dont have the energy to think 
 
 I dont have the energy to feel
@@ -46,7 +50,7 @@ to be tucked into bed and kissed on the forehead
 
 <br/>
 
-I am too tired to feel
+I want to feel numb
 
 <br/>
 
@@ -64,7 +68,7 @@ I cant think about this
 
 This is too much
 
-I cant
+I cant...
 
 <br/>
 
