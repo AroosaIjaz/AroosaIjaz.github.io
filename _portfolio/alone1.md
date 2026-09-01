@@ -6,6 +6,7 @@ collection: portfolio
 
 Date: 30-08-2026
 
+<br/>
 
 **A passing thought from the mind of an eighty-year old homeless man:**
 
