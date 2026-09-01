@@ -6,6 +6,28 @@ collection: portfolio
 
 Date: 30-08-2026
 
+
+**A passing thought from the mind of an eighty-year old homeless man:**
+
+
+My beard grows ever longer and greyer
+
+The night grows ever colder and longer
+
+The void grows ever darker and closer
+
+<br/>
+
+As I sit here, under the starry night
+
+invisible and forgotten 
+
+fighting and existing 
+
+moment to moment
+
+<br/>
+
 I dont have the energy to think 
 
 I dont have the energy to feel
@@ -22,31 +44,15 @@ to be tucked into bed and kissed on the forehead
 
 <br/>
 
-As I sit here, under the starry night
-
-invisible and forgotten 
-
-fighting and existing 
-
-moment to moment
-
-too tired to feel 
+I am too tired to feel
 
 <br/>
 
-My beard grows ever longer and greyer
-
-The night grows ever colder and longer
-
-The void grows ever darker and closer
+I am no longer bothered by the sounds and smells , by the heat of these clothes, by the pinching of these shoes, by the pain in my back, by the feet rushing past me, by the worries this world has to offer, by the masked tricks of life and by the emptiness of everything...
 
 <br/>
 
-I feel numb
-
-<br/>
-
-I am no longer bothered by the sounds and smells , by the heat of these clothes, by the pinching of these shoes, by the pain in my back, by the feet rushing past me, by the worries this world has to offer, by the tricks of life and the emptiness of everything...
+I want to feel numb
 
 <br/>
  
@@ -56,20 +62,27 @@ I cant think about this
 
 This is too much
 
-The other end of this stream of consciousness is a pitch black fall into nothingness
+The other end of this stream of consciousness is a bottomless fall into despair
+
+<br/>
+
+I want to feel numb
 
 <br/>
 
 Yet
 
-the insurmountable pain of my human need 
+the insurmountable human need 
 
 breaks through into my consciousness 
 
+<br/>
+
+I want to feel numb
+
+<br/>
 
 Can anyone see me?
-
-All I want is to be surrounded by love and loved ones 
 
 
 
