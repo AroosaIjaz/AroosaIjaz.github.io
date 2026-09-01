@@ -68,19 +68,9 @@ I want to feel numb
 
 <br/>
 <br/>
- 
-I cant 
 
-I cant think about this
 
-This is too much
-
-I cant...
-
-<br/>
-<br/>
-
-The other end of this stream of consciousness is a bottomless fall into despair and nothingness
+The other end of this stream of consciousness is a bottomless fall into despair 
 
 <br/>
 <br/>
