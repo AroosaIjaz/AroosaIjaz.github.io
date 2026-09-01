@@ -19,6 +19,7 @@ It is an interesting question to ponder over...
 **How free and how accessible is human morality as a choice? And who gets to sit over these judgements?**
 
 German writer [Bertolt Brecht](https://en.wikipedia.org/wiki/Bertolt_Brecht)'s famous line comes to mind (from one of his plays from 1928 where he called out the hypocrisy of the morality imposed by the Church and state):  
+
 >"Erst kommt das Fressen, dann kommt die Moral" or “Grub first, then ethics”
 
 Is this always true though? 
@@ -32,6 +33,7 @@ In scarcity? in war? in authoritarianism...?
 In one of her works, philosopher [Hannah Arendt](https://en.wikipedia.org/wiki/Hannah_Arendt) argued that the presence of a moral choice and non-violent resistance is always there, even under totalitarianism. 
 
 <br/>
+<br/>
 
 Is this claim applicable to all cases of human suffering though? 
 
@@ -44,8 +46,10 @@ Is it always possible for us to negotiate between our supposed [inner angels and
 Or is it more likely for revenge and trauma to overwhelm the will to stay humane - in a world that has not afforded you any humanity? 
 
 In his book "Dawn", writer [Elie Wiesel](https://en.wikipedia.org/wiki/Elie_Wiesel) vividly portrayed this inner dialogue in a Jewish protagonist from 1947 British-controlled Palestine, a teen survivor of the Buchenwald concentration camp, who has been charged to execute a British soldier. He ultimately becomes the antagonist although he tries to cling onto himself and humanity. Through him, the writer reflected on the moral choice of new Israel and its imposition that its pain and trauma be passed on because
+
 >"When the dead are hungry, they judge the living without pity."
 
+<br/>
 <br/>
 
 Is it moral absolutism that is breaking down?
