@@ -56,12 +56,20 @@ I cant think about this
 
 This is too much
 
+The other end of this stream of consciousness is a pitch black fall into nothingness
+
 <br/>
- 
-All that breaks through once in 
 
-the core of my being still screams out loud enough for it to break though into my consciousness 
+Yet
 
+the insurmountable pain of my human need 
+
+breaks through into my consciousness 
+
+
+Can anyone see me?
+
+All I want is to be surrounded by love and loved ones 
 
 
 
