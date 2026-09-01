@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 [Curriculum Vitae [PDF]](http://AroosaIjaz.github.io/files/Aroosa_CV_Jan2026.pdf)
 
