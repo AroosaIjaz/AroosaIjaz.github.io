@@ -15,7 +15,6 @@ In her movie, we see the protagonists choosing to be kind and humane when beset 
 
 <br/>
 <br/>
-<br/>
 
 It is an interesting question to ponder over...
 
@@ -37,7 +36,7 @@ In one of her works, philosopher [Hannah Arendt](https://en.wikipedia.org/wiki/H
 
 <br/>
 <br/>
-<br/>
+
 
 Is this claim applicable to all cases of human suffering though? 
 
@@ -45,7 +44,7 @@ Or is that an illusion we want to construct? **would that be another way the opp
 
 <br/>
 <br/>
-<br/>
+
 
 Is it always possible for us to negotiate between our supposed [inner angels and demons](https://en.wikipedia.org/wiki/The_Better_Angels_of_Our_Nature)? 
 
@@ -57,13 +56,11 @@ In his book "Dawn", writer [Elie Wiesel](https://en.wikipedia.org/wiki/Elie_Wies
 
 <br/>
 <br/>
-<br/>
 
 Is it moral absolutism that is breaking down?
 
 **Or is it moral consistency that is a luxury of the few?**
 
-<br/>
 <br/>
 
 Not always, maybe not even frequently, but still in so many socioeconomic situations, we see people choosing morality and kindness and generosity over personal needs, even when they can not afford to...even when it is very difficult to do so. So many go out of their way to offer you whatever food they have and go hungry themselves. So many choose to stay in adversity but do not want to feed their children any food that has been stolen from someone else's child's mouth...
