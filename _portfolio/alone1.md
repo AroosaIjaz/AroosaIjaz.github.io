@@ -48,7 +48,7 @@ I am too tired to feel
 
 <br/>
 
-I am no longer bothered by the sounds and smells , by the heat of these clothes, by the pinching of these shoes, by the pain in my back, by the feet rushing past me, by the worries this world has to offer, by the masked tricks of life and by the emptiness of everything...
+I am no longer bothered by the sounds and smells , by the heat of these clothes, by the pinching of these shoes, by the pain in my back, by the feet rushing past me, by the masked tricks of life and by the emptiness of everything...
 
 <br/>
 
