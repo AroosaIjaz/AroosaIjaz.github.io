@@ -49,7 +49,7 @@ I am too tired to feel
 
 <br/>
 
-I am no longer bothered by the sounds and smells , by the heat of these clothes, by the pinching of these shoes, by the pain in my back, by the feet rushing past me, by the masked tricks of life and by the emptiness of everything...
+I am no longer bothered by the sounds and smells , by the heat of these clothes, by the pinching of these shoes, by the pain in my back, by the feet rushing past me, by the memories of the old promises, by the masked tricks of life and by the emptiness of everything...
 
 <br/>
 
@@ -63,7 +63,7 @@ I cant think about this
 
 This is too much
 
-The other end of this stream of consciousness is a bottomless fall into despair
+The other end of this stream of consciousness is a bottomless fall into despair and nothingness
 
 <br/>
 
