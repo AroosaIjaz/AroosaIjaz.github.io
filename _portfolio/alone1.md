@@ -65,7 +65,7 @@ I want to feel numb
 <br/>
 <br/>
 
-I am no longer bothered by the sounds and smells , by the heat of these clothes, by the pinching of these shoes, by the pain in my back, by the feet rushing past me, by the memories of old promises, by the masked tricks of this life, and by the emptiness of everything...
+I am no longer bothered by the sounds and smells , by the fatigue in my bones, by the heat of these clothes, by the pinching of these shoes, by the pain in my back, by the feet rushing past me, by the memories of old promises, by the masked tricks of this life, by the emptiness of everything...
 
 <br/>
 <br/>
@@ -76,7 +76,7 @@ I want to feel numb
 <br/>
 
 
-The other end of this stream of consciousness is a bottomless fall into despair 
+The other end of this stream of consciousness is a bottomless fall into nothingness 
 
 <br/>
 <br/>
@@ -98,6 +98,8 @@ all of my humanity
 
 <br/>
 <br/>
+
+I am too tired to carry this burden
 
 I want to feel numb
 
