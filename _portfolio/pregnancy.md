@@ -30,7 +30,7 @@ Do you think you are more likely to take the pill if you are kept in the dark ab
 
 Do you think you might still take the pill even if I were to educate you on the side-effects honestly and sincerely? Maybe you can prepare yourself better and take on the needed precautions if you know more? Maybe you want to check your family health history once again?
 
-Would you still like to know about the potential side-effects even if you are confident that they wont effect you; that you are not going to be part of the "bad" statistics? but maybe it will effect half of your friends if they took the pill I am offering? you will be okay so you dont have to care...
+Would you still like to know about the potential side-effects even if you are confident that they wont effect you; that you are not going to be part of the "bad" statistics? What if it will effect half of your friends if they took the pill I am offering? will you still be okay because you dont have to personally care about the consequences...? 
 
 Do you think it is at least good to have the choice? 
 
@@ -58,7 +58,7 @@ Most of us women are very accustomed to these treatments when interacting with t
 
 [Recent research](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23)00454-0/fulltext) on pregnancy and childbirth has shown that their effects are not only limited to the few months after giving birth in the form of postpartum complications. A large number of health effects are [life-long](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.122.062177) and can appear in [various ways](https://www.physiology.org/publications/news/the-physiologist-magazine/2024/november/how-pregnancy-affects-a-lifetime-of-health?SSO=Y) decades afterwards. 
 
-I dont see this being discussed anywhere; neither the popular media nor the doctor offices most women go to get counselling. Evolution might have prefered fetus survivial at the expense of maternal health but the choices human "civilisation" continues to make deserve to be analyzed. 
+I dont see this being discussed anywhere; neither the popular media nor the doctor offices most women go to get counselling. Evolution might have preferred fetus survival at the expense of maternal health but the choices human "civilisation" continues to make deserve to be analyzed. 
 
 I dont even know where to begin for the women in Pakistan...I will do another post on some of the horrors and practices around just childbirth that I know of. 
 
@@ -68,6 +68,3 @@ The power of knowledge and choice is seemingly kept out of reach for half the po
 
 Seems like external elements have decided that it is better to **make** you have children in the dark...
 
-This reminds of the following work from Alfred Kubin called "The Egg" (1901-1902):
-
-!["The Egg"](https://github.com/AroosaIjaz/AroosaIjaz.github.io/blob/master/files/alfred-kubin-the-egg-1901-1902.jpg)
